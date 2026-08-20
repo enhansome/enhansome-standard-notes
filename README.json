@@ -339,7 +339,7 @@
                 "last_commit": "2026-08-05T15:16:33Z",
                 "owner": "standardnotes",
                 "repo": "plugins",
-                "stars": 119
+                "stars": 120
               }
             },
             {
@@ -763,7 +763,7 @@
                 "last_commit": "2026-03-31T19:44:02Z",
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1793
+                "stars": 1794
               }
             },
             {
@@ -778,7 +778,7 @@
                 "last_commit": "2026-07-03T20:42:27Z",
                 "owner": "wormi4ok",
                 "repo": "evernote2md",
-                "stars": 1106
+                "stars": 1107
               }
             },
             {
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:52:17.014Z",
+    "last_updated": "2026-08-20T02:07:22.623Z",
     "original_repository": "jonhadfield/awesome-standard-notes",
     "original_repository_id": 233403603,
     "original_repository_sha": "d0364f3c344029159e4f0e22c3ffda21585d0ce4",
