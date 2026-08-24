@@ -606,6 +606,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Pomodoro Timer",
+              "description": "Pomodoro timer for Standard Notes in the Editor Bottom Bar",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 393508642,
+                "language": "TypeScript",
+                "last_commit": "2024-06-26T03:22:28Z",
+                "owner": "tryonlinux",
+                "repo": "pomodoro-sn",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Components"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SF Pro Text",
               "description": null,
               "children": [],
@@ -990,7 +1012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:12:46.543Z",
+    "last_updated": "2026-08-24T14:17:11.193Z",
     "original_repository": "jonhadfield/awesome-standard-notes",
     "original_repository_id": 233403603,
     "original_repository_sha": "d0364f3c344029159e4f0e22c3ffda21585d0ce4",
