@@ -696,7 +696,7 @@
                 "last_commit": "2023-02-14T16:13:29Z",
                 "owner": "gyaneesh",
                 "repo": "standardnotes-extensions",
-                "stars": 178
+                "stars": 177
               }
             },
             {
@@ -775,7 +775,7 @@
                 "archived": false,
                 "id": 147922113,
                 "language": "Go",
-                "last_commit": "2026-07-03T20:42:27Z",
+                "last_commit": "2026-08-23T19:47:59Z",
                 "owner": "wormi4ok",
                 "repo": "evernote2md",
                 "stars": 1107
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:14:31.027Z",
+    "last_updated": "2026-08-24T02:12:46.543Z",
     "original_repository": "jonhadfield/awesome-standard-notes",
     "original_repository_id": 233403603,
     "original_repository_sha": "d0364f3c344029159e4f0e22c3ffda21585d0ce4",
