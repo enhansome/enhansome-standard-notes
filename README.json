@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gruvbox Dark Theme for Standard Notes",
+                "homepage": null,
                 "id": 163118467,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2024-07-10T16:38:15Z",
+                "open_issues": 5,
                 "owner": "christianhans",
                 "repo": "sn-gruvbox-dark-theme",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "gruvbox",
+                  "standardnotes",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -28,12 +37,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure black theme for Standard Notes. Optimized for OLED devices.",
+                "homepage": null,
                 "id": 198116708,
                 "language": "SCSS",
+                "license": null,
                 "last_commit": "2024-06-12T14:29:57Z",
+                "open_issues": 1,
                 "owner": "christianhans",
                 "repo": "sn-pure-black-theme",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -44,12 +58,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " 🧛🏻‍♂️ Dark theme for Standard Notes",
+                "homepage": "https://draculatheme.com/standard-notes",
                 "id": 299769344,
                 "language": "SCSS",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-07-30T13:54:32Z",
+                "open_issues": 1,
                 "owner": "dracula",
                 "repo": "standard-notes",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "dracula",
+                  "dracula-theme",
+                  "standardnotes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -60,12 +83,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standard Notes dark theme with non-vivid, muted colors",
+                "homepage": null,
                 "id": 200422477,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2022-12-06T20:45:16Z",
+                "open_issues": 2,
                 "owner": "ntran",
                 "repo": "sn-theme-muteddark",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -76,12 +104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 232075174,
                 "language": "CSS",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-26T00:05:55Z",
+                "open_issues": 3,
                 "owner": "marcolaux",
                 "repo": "sn-theme-vscode",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -92,12 +125,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Monospace font on markdown editors",
+                "homepage": "https://danielnetop.github.io/markdown-monospace/ext.json",
                 "id": 500548868,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2023-12-07T16:49:38Z",
+                "open_issues": 0,
                 "owner": "danielnetop",
                 "repo": "markdown-monospace",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "markdown",
+                  "monospace",
+                  "monospace-font",
+                  "standard-notes",
+                  "standardnotes",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -108,12 +153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distraction free writing for Standard Notes with a nice serif font",
+                "homepage": null,
                 "id": 289225839,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-08-21T15:57:12Z",
+                "open_issues": 1,
                 "owner": "eenpadvinder",
                 "repo": "standardnotes-writer",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -124,12 +174,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 288818281,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-08-21T08:36:06Z",
+                "open_issues": 1,
                 "owner": "eenpadvinder",
                 "repo": "standardnotes-theme-one-darker",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -140,12 +195,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dark theme, based on the VSCode Horizon Theme",
+                "homepage": null,
                 "id": 363397280,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2022-11-18T16:51:39Z",
+                "open_issues": 0,
                 "owner": "luisstd",
                 "repo": "sn-theme-horizon-dark",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "standardnotes",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -156,12 +219,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A near monochrome dark theme for Standard Notes",
+                "homepage": null,
                 "id": 430828302,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2022-11-11T18:30:47Z",
+                "open_issues": 1,
                 "owner": "Parkertg",
                 "repo": "sn-theme-monochrome-dark",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "dark",
+                  "dark-theme",
+                  "sn-extensions",
+                  "standardnotes",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -172,12 +246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A theme with shady greys and mossy greens.",
+                "homepage": null,
                 "id": 231261584,
                 "language": "Go Template",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-27T13:27:45Z",
+                "open_issues": 2,
                 "owner": "yithian",
                 "repo": "slate-theme",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -188,12 +267,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dark theme for Standard Notes, based on the Serendipity theme",
+                "homepage": null,
                 "id": 732624459,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2023-12-17T16:53:52Z",
+                "open_issues": 0,
                 "owner": "luisstd",
                 "repo": "sn-theme-serendipity-dark",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "standardnotes",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -204,12 +291,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lower saturation/contrast light theme for Standard Notes",
+                "homepage": null,
                 "id": 430165883,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-12-28T05:54:20Z",
+                "open_issues": 0,
                 "owner": "Parkertg",
                 "repo": "sn-theme-subtle-light",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "light-theme",
+                  "sn-extensions",
+                  "sn-theme",
+                  "standardnotes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -220,12 +317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 515715393,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2023-03-23T23:16:28Z",
+                "open_issues": 0,
                 "owner": "shompoe",
                 "repo": "sn-orange",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -236,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The perfect Standard Notes theme for writing in the dark.",
+                "homepage": "https://listed.to/p/iZ19sSTBwr",
                 "id": 783015523,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2026-03-09T14:17:22Z",
+                "open_issues": 0,
                 "owner": "xzrelay",
                 "repo": "sn-theme-dark-sense",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -252,12 +359,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A low saturation dark theme for Standard Notes",
+                "homepage": "https://listed.to/p/bntrwCrfHs",
                 "id": 429935245,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2023-12-28T05:52:16Z",
+                "open_issues": 0,
                 "owner": "Parkertg",
                 "repo": "sn-theme-subtle-dark",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "brown",
+                  "dark",
+                  "extension",
+                  "sn-extensions",
+                  "sn-theme",
+                  "standardnotes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -268,12 +387,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Overcast theme for Standard Notes",
+                "homepage": "https://nienow.github.io/sn-theme-overcast/ext.json",
                 "id": 687551461,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2025-12-08T10:07:36Z",
+                "open_issues": 1,
                 "owner": "nienow",
                 "repo": "sn-theme-overcast",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "standard-notes",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -284,12 +411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Dark moss theme for Standard Notes",
+                "homepage": null,
                 "id": 860476324,
                 "language": "SCSS",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-25T09:50:47Z",
+                "open_issues": 0,
                 "owner": "TheMany172",
                 "repo": "SN-Moss-Theme",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -300,12 +432,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A light theme, based on the VSCode Horizon Theme ",
+                "homepage": null,
                 "id": 371950881,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2022-03-14T01:18:17Z",
+                "open_issues": 0,
                 "owner": "luisstd",
                 "repo": "sn-theme-horizon-light",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "standardnotes",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -316,12 +456,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 304202617,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-02-23T01:21:39Z",
+                "open_issues": 0,
                 "owner": "arturolinares",
                 "repo": "standardnotes-theme-one-lighter",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             }
@@ -339,12 +484,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rich Markdown Editor for Standard Notes",
+                "homepage": null,
                 "id": 288746435,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-01-19T00:56:51Z",
+                "open_issues": 18,
                 "owner": "arturolinares",
                 "repo": "sn-rme",
-                "stars": 147
+                "stars": 147,
+                "topics": [
+                  "sn-extensions",
+                  "standardnotes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -355,12 +508,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community plugins for Standard Notes — Experimental 🧪",
+                "homepage": null,
                 "id": 508869674,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-05T15:16:33Z",
+                "open_issues": 19,
                 "owner": "standardnotes",
                 "repo": "plugins",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -371,12 +529,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Append to your notes @StandardNotes with GitHub Flavored Markdown via CodeMirror, Rich Markdown, and Monaco",
+                "homepage": "https://theodorechu.github.io/append-editor",
                 "id": 255270527,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-12T21:12:20Z",
+                "open_issues": 44,
                 "owner": "theodorechu",
                 "repo": "append-editor",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "codemirror",
+                  "end-to-end-encryption",
+                  "javascript",
+                  "katex",
+                  "markdown-editor",
+                  "monaco-editor",
+                  "rehype",
+                  "remark",
+                  "sn-extensions",
+                  "standardnotes",
+                  "typescript",
+                  "wysiwyg",
+                  "wysiwyg-editor"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -387,12 +564,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple text editor that makes it easy to write and read nested notes in https://standardnotes.org/",
+                "homepage": null,
                 "id": 231703126,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-01-10T21:00:02Z",
+                "open_issues": 4,
                 "owner": "MaxLap",
                 "repo": "standard-notes-indent-editor",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "code-mirror",
+                  "standard-notes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -403,12 +588,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Org mode for Standard Notes! Demo: https://ryanpcmcquen.org/standardnotes_org_mode_editor/",
+                "homepage": null,
                 "id": 115305913,
                 "language": "JavaScript",
+                "license": "MPL-2.0",
                 "last_commit": "2021-10-12T06:55:23Z",
+                "open_issues": 1,
                 "owner": "ryanpcmcquen",
                 "repo": "standardnotes_org_mode_editor",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "hacktoberfest",
+                  "org-mode",
+                  "standardnotes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -419,12 +613,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Marp Editor for @StandardNotes. Create presentations with Marp and Marpit Markdown",
+                "homepage": "http://theodorechu.github.io/marp-editor",
                 "id": 324239468,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-12T20:51:23Z",
+                "open_issues": 4,
                 "owner": "theodorechu",
                 "repo": "marp-editor",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "deck",
+                  "markdown",
+                  "marp",
+                  "marpit-markdown",
+                  "presentation",
+                  "presentation-slides",
+                  "slides"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -435,12 +642,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Whiteboard editor for Standard Notes based on TLDRAW",
+                "homepage": null,
                 "id": 555875588,
                 "language": "SCSS",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-01-11T13:15:08Z",
+                "open_issues": 7,
                 "owner": "antonheitz",
                 "repo": "sn-whiteboard",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -451,12 +663,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standard Notes Kanban Editor",
+                "homepage": "https://corvec.github.io/sn-kanban-editor/ext.json",
                 "id": 336176156,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-02T18:15:18Z",
+                "open_issues": 3,
                 "owner": "corvec",
                 "repo": "sn-kanban-editor",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "kanban-editor",
+                  "standard-notes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -467,12 +687,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standard Notes Extension that allows splitting a note into multiple areas",
+                "homepage": "https://nienow.github.io/cosmos/demo.html",
                 "id": 618977320,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-21T11:55:22Z",
+                "open_issues": 0,
                 "owner": "nienow",
                 "repo": "cosmos",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "extension",
+                  "plugin",
+                  "standard-notes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -483,12 +712,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A simple Kanban style board editor for Standard Notes ",
+                "homepage": null,
                 "id": 377696608,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-06-26T03:24:24Z",
+                "open_issues": 10,
                 "owner": "tryonlinux",
                 "repo": "kanban-board-sn",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -499,12 +733,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standard Notes Mermaid Extension",
+                "homepage": "https://nienow.github.io/sn-mermaid/demo.html",
                 "id": 658821313,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-01T12:23:57Z",
+                "open_issues": 2,
                 "owner": "nienow",
                 "repo": "sn-mermaid",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "standard-notes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -515,12 +756,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standard Notes Extension that uses the Excalidraw Editor",
+                "homepage": "https://nienow.github.io/sn-excalidraw/demo.html",
                 "id": 621340536,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-01T12:21:48Z",
+                "open_issues": 3,
                 "owner": "nienow",
                 "repo": "sn-excalidraw",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "standard-notes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -531,12 +779,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standard Notes Extension that uses the Quill Rich Text Editor",
+                "homepage": "https://nienow.github.io/sn-quill/demo.html",
                 "id": 642665687,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2026-08-01T12:22:05Z",
+                "open_issues": 2,
                 "owner": "nienow",
                 "repo": "sn-quill",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "standard-notes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -547,12 +802,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Music Editor for @standardnotes. Write music with VexTab and VexFlow",
+                "homepage": "https://theodorechu.github.io/music-editor/",
                 "id": 316057044,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-12T20:53:05Z",
+                "open_issues": 0,
                 "owner": "theodorechu",
                 "repo": "music-editor",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "music",
+                  "music-editor",
+                  "sn-extensions",
+                  "standardnotes",
+                  "vexflow",
+                  "vextab"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -563,12 +830,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An extension editor for Standard Notes to catalog home inventory in a solid and security way ",
+                "homepage": null,
                 "id": 361468313,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-06-26T03:24:03Z",
+                "open_issues": 6,
                 "owner": "tryonlinux",
                 "repo": "Home-Inventory-sn",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -579,12 +851,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A savings goal editor for Standard Notes",
+                "homepage": null,
                 "id": 376176578,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-06-26T03:23:42Z",
+                "open_issues": 0,
                 "owner": "tryonlinux",
                 "repo": "savings-goals-editor-sn",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -595,12 +872,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Coin Inventory tracking Editor for Standard Notes",
+                "homepage": null,
                 "id": 371240887,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-06-26T03:24:14Z",
+                "open_issues": 4,
                 "owner": "tryonlinux",
                 "repo": "Coin-Inventory-sn",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -611,12 +893,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Toast UI Markdown Editor for Standard Notes",
+                "homepage": null,
                 "id": 678710407,
                 "language": "SCSS",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-01-05T10:27:53Z",
+                "open_issues": 2,
                 "owner": "MortalHappiness",
                 "repo": "sn-tui.editor",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -627,12 +914,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A tracker of what precious metals you have and their values. This is an editor for Standard Notes. ",
+                "homepage": null,
                 "id": 371243161,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-06-26T03:23:52Z",
+                "open_issues": 8,
                 "owner": "tryonlinux",
                 "repo": "Precious-Metals-Inventory-sn",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             }
@@ -650,12 +942,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Pomodoro timer for Standard Notes at the bottom of any editor",
+                "homepage": null,
                 "id": 393508642,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-06-26T03:22:28Z",
+                "open_issues": 1,
                 "owner": "tryonlinux",
                 "repo": "pomodoro-sn",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             }
@@ -673,12 +970,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Restores the way the Standard Notes Desktop App looked like on macOS Mojave.",
+                "homepage": null,
                 "id": 216259980,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-01-25T11:17:42Z",
+                "open_issues": 0,
                 "owner": "christianhans",
                 "repo": "sn-sf-pro-text-font",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -689,12 +991,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JetBrains Mono Font for Standard Notes",
+                "homepage": "https://snjm.env.com.bd",
                 "id": 475518077,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2024-12-16T19:37:48Z",
+                "open_issues": 0,
                 "owner": "aiFdn",
                 "repo": "SN-JetBrains-Mono",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "font",
+                  "font-for-standardnotes",
+                  "jetbrains",
+                  "jetbrains-mono-font",
+                  "standardnotes",
+                  "standardnotes-editor-font"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             }
@@ -718,12 +1032,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A browser add-on (Firefox and Chrome) that allows you to clip web pages to your Standard Notes account.",
+                "homepage": null,
                 "id": 211496559,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-05-06T16:51:16Z",
+                "open_issues": 10,
                 "owner": "johnjones4",
                 "repo": "Standard-Notes-Clipper",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -734,12 +1053,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial chrome extension for Standard Notes",
+                "homepage": null,
                 "id": 260458601,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-12-05T17:52:14Z",
+                "open_issues": 0,
                 "owner": "mllocs",
                 "repo": "standard-notes-chrome-extension",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             }
@@ -757,12 +1081,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Self-host standard notes extensions repository.",
+                "homepage": null,
                 "id": 234211183,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-14T16:13:29Z",
+                "open_issues": 0,
                 "owner": "gyaneesh",
                 "repo": "standardnotes-extensions",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "sn-extensions",
+                  "standard-notes",
+                  "standardnotes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -773,12 +1106,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mount your Standard Notes as a filesystem.",
+                "homepage": null,
                 "id": 107294098,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-12-15T21:32:28Z",
+                "open_issues": 2,
                 "owner": "tanner37",
                 "repo": "standardnotes-fs",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "encrypted",
+                  "fuse",
+                  "fusepy",
+                  "notes",
+                  "secure",
+                  "standard-file",
+                  "standard-notes",
+                  "standardnotes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -789,12 +1136,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a command line interface for standard notes",
+                "homepage": null,
                 "id": 147110819,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-23T11:55:38Z",
+                "open_issues": 14,
                 "owner": "jonhadfield",
                 "repo": "sn-cli",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "cli",
+                  "notes",
+                  "sn-cli",
+                  "standard",
+                  "standardnotes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -805,12 +1163,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "sync and manage dotfiles with Standard Notes",
+                "homepage": null,
                 "id": 195650676,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-03-06T23:05:27Z",
+                "open_issues": 3,
                 "owner": "jonhadfield",
                 "repo": "sn-dotfiles",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "dotfiles",
+                  "go",
+                  "golang",
+                  "standard-notes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             }
@@ -828,12 +1196,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yarle - The ultimate converter of Evernote notes to Markdown",
+                "homepage": "https://github.com/akosbalasko/yarle",
                 "id": 151837779,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-31T19:44:02Z",
+                "open_issues": 85,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1796
+                "stars": 1796,
+                "topics": [
+                  "converter",
+                  "desktop-application",
+                  "electron-app",
+                  "enex",
+                  "enex-files",
+                  "evernote",
+                  "evernote-enex",
+                  "evernote-export",
+                  "evernote-markup-language",
+                  "evernote-to-logseq",
+                  "logseq",
+                  "markdown",
+                  "markdown-converter",
+                  "metadata",
+                  "note-taking",
+                  "obsidian",
+                  "obsidian-md",
+                  "ultimate-converter",
+                  "zero-install",
+                  "zettelkasten"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -844,12 +1238,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert Evernote .enex files to Markdown",
+                "homepage": null,
                 "id": 147922113,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T01:35:02Z",
+                "open_issues": 16,
                 "owner": "wormi4ok",
                 "repo": "evernote2md",
-                "stars": 1107
+                "stars": 1107,
+                "topics": [
+                  "converter",
+                  "evernote",
+                  "evernote-enex",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -860,12 +1264,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Standard Notes Folder Export CLI - Deno",
+                "homepage": null,
                 "id": 499801978,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-06-04T12:41:20Z",
+                "open_issues": 0,
                 "owner": "BrunoBernardino",
                 "repo": "standardnotes-folder-export-cli",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "cli",
+                  "deno",
+                  "export",
+                  "standardnotes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -876,12 +1290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert notes from OneNote for use in Standard Notes",
+                "homepage": null,
                 "id": 82244144,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-21T21:17:37Z",
+                "open_issues": 3,
                 "owner": "oxhacks",
                 "repo": "onestandard",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -892,12 +1311,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standard Notes export to folder",
+                "homepage": null,
                 "id": 609885765,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-25T02:50:22Z",
+                "open_issues": 4,
                 "owner": "danielnetop",
                 "repo": "sn-export-to-folder",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "cli",
+                  "export",
+                  "go",
+                  "golang",
+                  "standard-notes",
+                  "standardnotes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -908,12 +1339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Day One JSON Export Importer for Standard Notes",
+                "homepage": null,
                 "id": 205890041,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2019-09-02T16:09:54Z",
+                "open_issues": 0,
                 "owner": "ArneTR",
                 "repo": "standardnotes_day_one_importer",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -924,12 +1360,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🗒 Convert Google Keep Takeout archive into Standardnotes archive",
+                "homepage": "https://vantezzen.github.io/Google-Keep-to-Standardnotes-Converter/index.html",
                 "id": 117116313,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2019-05-03T15:21:47Z",
+                "open_issues": 0,
                 "owner": "vantezzen",
                 "repo": "Google-Keep-to-Standardnotes-Converter",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -940,12 +1381,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Port a SimpleNote backup to a StandardNote one, keeping dates and tags",
+                "homepage": null,
                 "id": 197376408,
                 "language": "Ruby",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-02-28T08:30:09Z",
+                "open_issues": 2,
                 "owner": "edas",
                 "repo": "simplenote2standardnote",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -956,12 +1402,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "convert, backfill note data",
+                "homepage": null,
                 "id": 254257157,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-04-23T03:44:38Z",
+                "open_issues": 1,
                 "owner": "rafaelespinoza",
                 "repo": "notexfr",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "evernote",
+                  "standardnotes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -972,12 +1426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python program to convert BlackBerry 10 Remember Notes backup(backed-up using Runisoft Ultimate Backup on BB10) to Standard Notes importable format with attachments support.",
+                "homepage": null,
                 "id": 647635433,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-18T11:08:49Z",
+                "open_issues": 0,
                 "owner": "jayb-g",
                 "repo": "bbrem2sn",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             }
@@ -999,12 +1458,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet Another Standardfile (standardnotes server) Implementation written in Golang",
+            "homepage": null,
             "id": 179999395,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-30T18:10:38Z",
+            "open_issues": 10,
             "owner": "mdouchement",
             "repo": "standardfile",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "client-library",
+              "golang",
+              "notes",
+              "standard-notes",
+              "standardfile",
+              "standardnotes",
+              "terminal-ui",
+              "text-editor"
+            ]
           },
           "first_seen": "2026-08-28T12:15:58.908Z"
         },
@@ -1015,12 +1488,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dockerization of Standard File server. Used for running your own Standard Notes server",
+            "homepage": null,
             "id": 163534638,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2019-10-10T19:36:13Z",
+            "open_issues": 1,
             "owner": "mdouchement",
             "repo": "standardnotes",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "standard-notes"
+            ]
           },
           "first_seen": "2026-08-28T12:15:58.908Z"
         }
@@ -1039,12 +1521,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A listed.to dark theme",
+                "homepage": null,
                 "id": 289699243,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2021-03-16T01:43:45Z",
+                "open_issues": 0,
                 "owner": "marcoceppi",
                 "repo": "listed-marcokai",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "listedto",
+                  "standard-notes"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             },
@@ -1055,12 +1545,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dracula theme for Listed.to",
+                "homepage": null,
                 "id": 198126679,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2020-02-24T01:59:19Z",
+                "open_issues": 0,
                 "owner": "cameronldn",
                 "repo": "sn-listed-theme-dracula",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "dracula",
+                  "listedto",
+                  "standardnotes",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
             }
@@ -1074,15 +1574,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:15:58.908Z",
+    "last_updated": "2026-08-29T04:37:36.149Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of tools and information relating to Standard Notes.",
+      "homepage": null,
       "id": 233403603,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-02-01T12:30:32Z",
+      "open_issues": 0,
       "owner": "jonhadfield",
       "repo": "awesome-standard-notes",
-      "stars": 954
+      "stars": 954,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "standard-notes"
+      ]
     },
     "original_repository_sha": "d0364f3c344029159e4f0e22c3ffda21585d0ce4",
     "enhanced_repository": "enhansome/enhansome-standard-notes",
