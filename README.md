@@ -77,7 +77,7 @@ This list includes projects in various maintenance states. Labels help you under
 
 * [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) ⭐ 146 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-19 - The awesome editor developed by [Outline](https://www.getoutline.com/). Supports tables, YouTube embeds and text highlights.
 * [Official Extensions](https://github.com/standardnotes/plugins) ⭐ 122 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-05
-* [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append to your notes. Write GitHub Flavored Markdown via four different editing modes: Plain Textarea with spell check, in-line formatting provided by [CodeMirror](https://github.com/codemirror/codemirror) ⚠️ Archived, what-you-see-is-what-you-get live formatting provided by the [Rich Markdown Editor](https://github.com/outline/rich-markdown-editor) ⚠️ Archived developed by [Outline](https://www.getoutline.com/), and in-line syntax highlighting provided by the [Monaco Editor](https://github.com/microsoft/monaco-editor) ⭐ 46,608 | 🐛 848 | 🌐 JavaScript | 📅 2026-08-27. In addition to GFM, the Plain Textarea, CodeMirror, and Monaco modes support KaTeX, table of contents, footnotes, in-line HTML, and emoji codes. The Monaco mode also supports autocompletion, search and replace, and syntax highlighting for over 60 programming languages. The Append Editor has built-in support for printing notes and per-note font sizes, font families, and custom CSS.
+* [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append to your notes. Write GitHub Flavored Markdown via four different editing modes: Plain Textarea with spell check, in-line formatting provided by [CodeMirror](https://github.com/codemirror/codemirror) ⚠️ Archived, what-you-see-is-what-you-get live formatting provided by the [Rich Markdown Editor](https://github.com/outline/rich-markdown-editor) ⚠️ Archived developed by [Outline](https://www.getoutline.com/), and in-line syntax highlighting provided by the [Monaco Editor](https://github.com/microsoft/monaco-editor) ⭐ 46,615 | 🐛 848 | 🌐 JavaScript | 📅 2026-08-27. In addition to GFM, the Plain Textarea, CodeMirror, and Monaco modes support KaTeX, table of contents, footnotes, in-line HTML, and emoji codes. The Monaco mode also supports autocompletion, search and replace, and syntax highlighting for over 60 programming languages. The Append Editor has built-in support for printing notes and per-note font sizes, font families, and custom CSS.
 * [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor) ⭐ 48 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-10
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-12
 * [Marp Editor](https://github.com/TheodoreChu/marp-editor) ⚠️ Archived - Create presentation slides with [Marp](https://marp.app) and [Marpit Markdown](https://marpit.marp.app/markdown).
@@ -92,7 +92,7 @@ This list includes projects in various maintenance states. Labels help you under
 * [Home Inventory](https://github.com/tryonlinux/Home-Inventory-sn) ⚠️ Archived - An extension editor for Standard Notes to catalog home inventory (great for insurance purposes) in a solid and secure way.
 * [Savings Goal Tracker](https://github.com/tryonlinux/savings-goals-editor-sn) ⚠️ Archived - This is an editor for Standard Notes that allows you to track your savings goals within the app. You can add your goals and prioritize them by dragging and dropping them in the order you wish.
 * [Coin Inventory](https://github.com/tryonlinux/Coin-Inventory-sn) ⚠️ Archived - An extension editor for Standard Notes to catalog coin inventory in a solid and secure way. Numismatists rejoice!
-* [Tui Markdown Editor](https://github.com/MortalHappiness/sn-tui.editor) ⚠️ Archived - A markdown editor using [Toast UI Markdown Editor](https://github.com/nhn/tui.editor) ⭐ 18,017 | 🐛 643 | 🌐 TypeScript | 📅 2024-08-01.
+* [Tui Markdown Editor](https://github.com/MortalHappiness/sn-tui.editor) ⚠️ Archived - A markdown editor using [Toast UI Markdown Editor](https://github.com/nhn/tui.editor) ⭐ 18,021 | 🐛 643 | 🌐 TypeScript | 📅 2024-08-01.
 * [Precious Metals](https://github.com/tryonlinux/Precious-Metals-Inventory-sn) ⚠️ Archived - An extension editor for Standard Notes to keep track of what precious metals you have and their values.
 * [Standard Notes Nimble Editor](https://hub.darcs.net/jandrew/sn-nimble-editor) **\[May be unavailable]**
 * [Flashcard Editor](https://github.com/TheodoreChu/flashcard-editor)
@@ -148,7 +148,7 @@ This list includes projects in various maintenance states. Labels help you under
 
 ## Clients
 
-* [Iridium](https://github.com/standardnotes/forum/issues/1135) ⭐ 220 | 🐛 614 | 📅 2023-09-30 - A local-first client written in Rust and GTK, with support for any server and offline editing <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
+* [Iridium](https://github.com/standardnotes/forum/issues/1135) ⭐ 220 | 🐛 616 | 📅 2023-09-30 - A local-first client written in Rust and GTK, with support for any server and offline editing <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
 * [Flatpak](https://flathub.org/apps/details/org.standardnotes.standardnotes) - An unofficial Flatpak build.
 
 ## Listed
@@ -160,4 +160,4 @@ This list includes projects in various maintenance states. Labels help you under
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
