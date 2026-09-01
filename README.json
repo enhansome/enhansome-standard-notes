@@ -1168,7 +1168,7 @@
                 "id": 195650676,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2023-03-06T23:05:27Z",
+                "last_commit": "2026-08-31T14:19:07Z",
                 "open_issues": 3,
                 "owner": "jonhadfield",
                 "repo": "sn-dotfiles",
@@ -1574,7 +1574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T06:15:44.789Z",
+    "last_updated": "2026-09-01T05:44:07.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
