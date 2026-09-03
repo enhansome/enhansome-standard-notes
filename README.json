@@ -1141,8 +1141,8 @@
                 "id": 147110819,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-05-23T11:55:38Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-02T23:00:18Z",
+                "open_issues": 5,
                 "owner": "jonhadfield",
                 "repo": "sn-cli",
                 "stars": 95,
@@ -1407,7 +1407,7 @@
                 "id": 254257157,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2025-04-23T03:44:38Z",
+                "last_commit": "2026-09-02T16:11:20Z",
                 "open_issues": 1,
                 "owner": "rafaelespinoza",
                 "repo": "notexfr",
@@ -1574,7 +1574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T05:07:59.045Z",
+    "last_updated": "2026-09-03T05:10:03.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",

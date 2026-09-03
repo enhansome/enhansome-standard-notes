@@ -77,7 +77,7 @@ This list includes projects in various maintenance states. Labels help you under
 
 * [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) ⭐ 146 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-19 - The awesome editor developed by [Outline](https://www.getoutline.com/). Supports tables, YouTube embeds and text highlights.
 * [Official Extensions](https://github.com/standardnotes/plugins) ⭐ 123 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-05
-* [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append to your notes. Write GitHub Flavored Markdown via four different editing modes: Plain Textarea with spell check, in-line formatting provided by [CodeMirror](https://github.com/codemirror/codemirror) ⚠️ Archived, what-you-see-is-what-you-get live formatting provided by the [Rich Markdown Editor](https://github.com/outline/rich-markdown-editor) ⚠️ Archived developed by [Outline](https://www.getoutline.com/), and in-line syntax highlighting provided by the [Monaco Editor](https://github.com/microsoft/monaco-editor) ⭐ 46,638 | 🐛 847 | 🌐 JavaScript | 📅 2026-09-01. In addition to GFM, the Plain Textarea, CodeMirror, and Monaco modes support KaTeX, table of contents, footnotes, in-line HTML, and emoji codes. The Monaco mode also supports autocompletion, search and replace, and syntax highlighting for over 60 programming languages. The Append Editor has built-in support for printing notes and per-note font sizes, font families, and custom CSS.
+* [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append to your notes. Write GitHub Flavored Markdown via four different editing modes: Plain Textarea with spell check, in-line formatting provided by [CodeMirror](https://github.com/codemirror/codemirror) ⚠️ Archived, what-you-see-is-what-you-get live formatting provided by the [Rich Markdown Editor](https://github.com/outline/rich-markdown-editor) ⚠️ Archived developed by [Outline](https://www.getoutline.com/), and in-line syntax highlighting provided by the [Monaco Editor](https://github.com/microsoft/monaco-editor) ⭐ 46,651 | 🐛 854 | 🌐 JavaScript | 📅 2026-09-03. In addition to GFM, the Plain Textarea, CodeMirror, and Monaco modes support KaTeX, table of contents, footnotes, in-line HTML, and emoji codes. The Monaco mode also supports autocompletion, search and replace, and syntax highlighting for over 60 programming languages. The Append Editor has built-in support for printing notes and per-note font sizes, font families, and custom CSS.
 * [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor) ⭐ 48 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-10
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-12
 * [Marp Editor](https://github.com/TheodoreChu/marp-editor) ⚠️ Archived - Create presentation slides with [Marp](https://marp.app) and [Marpit Markdown](https://marpit.marp.app/markdown).
@@ -118,7 +118,7 @@ This list includes projects in various maintenance states. Labels help you under
 
 * [Extensions Repository Builder](https://github.com/iganeshk/standardnotes-extensions) ⚠️ Archived **\[Archived]** - Host Standard Notes extensions on your own server.
 * [standardnotes-fs](https://github.com/tannercollin/standardnotes-fs) ⚠️ Archived **\[Archived]** - Mount your Standard Notes account as a filesystem and edit your notes as plain text files. **Note: No longer functional.** <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
-* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 95 | 🐛 14 | 🌐 Go | 📅 2026-05-23 - Manage notes, tags, and other account operations
+* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 95 | 🐛 5 | 🌐 Go | 📅 2026-09-02 - Manage notes, tags, and other account operations
 * [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 3 | 🌐 Go | 📅 2026-08-31 - Sync and manage dotfiles using Standard Notes
 
 ### Importers, Exporters, and Converters
@@ -131,7 +131,7 @@ This list includes projects in various maintenance states. Labels help you under
 * [Day One => Standard Notes Importer](https://github.com/ArneTR/standardnotes_day_one_importer) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2019-09-02 - Day One JSON Export Importer for Standard Notes
 * [Google Keep™ to StandardNotes Converter](https://github.com/vantezzen/Google-Keep-to-Standardnotes-Converter) ⚠️ Archived **\[Archived]** - Convert Google Keep Takeout archive into Standardnotes archive
 * [simplenote2standardnote](https://github.com/edas/simplenote2standardnote) ⚠️ Archived **\[Archived]** - Port a SimpleNote backup to a StandardNote one, keeping dates and tags
-* [notexfr](https://github.com/rafaelespinoza/notexfr) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2025-04-23 - notexfr is a tool to convert and adapt data for transfer between note-taking services
+* [notexfr](https://github.com/rafaelespinoza/notexfr) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2026-09-02 - notexfr is a tool to convert and adapt data for transfer between note-taking services
 * [BB10 Remember → Standard Notes plaintext(/super note) import format Converter](https://github.com/jayb-g/bbrem2sn) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-07-18 - A simple python program to convert BlackBerry10 Remember Notes backup(backed-up using Runisoft Ultimate Backup on BB10) to Standard Notes importable format with preserved formatting, attachments and timestamps.
 * [Google Keep to Standard Notes nodeJS converter](https://standardnotes.com/help/35/how-can-i-import-my-notes-from-google-keep) - Simple NodeJS script to convert a Google Keep Takeout export into a decrypted Standard Notes backup (Now part of StandardNotes).
 * [Aegis to TokenVault](https://gist.github.com/kahnwong/e94933bb80888e4b7f75df4d90645cbe) - Export secret keys and account info from Aegis, then use this python script to format it into something the TokenVault Editor can use.
@@ -160,4 +160,4 @@ This list includes projects in various maintenance states. Labels help you under
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
