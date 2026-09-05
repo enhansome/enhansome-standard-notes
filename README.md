@@ -77,7 +77,7 @@ This list includes projects in various maintenance states. Labels help you under
 
 * [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) ⭐ 146 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-19 - The awesome editor developed by [Outline](https://www.getoutline.com/). Supports tables, YouTube embeds and text highlights.
 * [Official Extensions](https://github.com/standardnotes/plugins) ⭐ 123 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-05
-* [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append to your notes. Write GitHub Flavored Markdown via four different editing modes: Plain Textarea with spell check, in-line formatting provided by [CodeMirror](https://github.com/codemirror/codemirror) ⚠️ Archived, what-you-see-is-what-you-get live formatting provided by the [Rich Markdown Editor](https://github.com/outline/rich-markdown-editor) ⚠️ Archived developed by [Outline](https://www.getoutline.com/), and in-line syntax highlighting provided by the [Monaco Editor](https://github.com/microsoft/monaco-editor) ⭐ 46,655 | 🐛 854 | 🌐 JavaScript | 📅 2026-09-03. In addition to GFM, the Plain Textarea, CodeMirror, and Monaco modes support KaTeX, table of contents, footnotes, in-line HTML, and emoji codes. The Monaco mode also supports autocompletion, search and replace, and syntax highlighting for over 60 programming languages. The Append Editor has built-in support for printing notes and per-note font sizes, font families, and custom CSS.
+* [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append to your notes. Write GitHub Flavored Markdown via four different editing modes: Plain Textarea with spell check, in-line formatting provided by [CodeMirror](https://github.com/codemirror/codemirror) ⚠️ Archived, what-you-see-is-what-you-get live formatting provided by the [Rich Markdown Editor](https://github.com/outline/rich-markdown-editor) ⚠️ Archived developed by [Outline](https://www.getoutline.com/), and in-line syntax highlighting provided by the [Monaco Editor](https://github.com/microsoft/monaco-editor) ⭐ 46,659 | 🐛 854 | 🌐 JavaScript | 📅 2026-09-03. In addition to GFM, the Plain Textarea, CodeMirror, and Monaco modes support KaTeX, table of contents, footnotes, in-line HTML, and emoji codes. The Monaco mode also supports autocompletion, search and replace, and syntax highlighting for over 60 programming languages. The Append Editor has built-in support for printing notes and per-note font sizes, font families, and custom CSS.
 * [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor) ⭐ 48 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-10
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-12
 * [Marp Editor](https://github.com/TheodoreChu/marp-editor) ⚠️ Archived - Create presentation slides with [Marp](https://marp.app) and [Marpit Markdown](https://marpit.marp.app/markdown).
@@ -138,7 +138,7 @@ This list includes projects in various maintenance states. Labels help you under
 
 ## Libraries
 
-* [gosn-v2](https://github.com/jonhadfield/gosn-v2) ⭐ 18 | 🐛 4 | 🌐 Go | 📅 2026-08-31 - A library written in Go
+* [gosn-v2](https://github.com/jonhadfield/gosn-v2) ⭐ 18 | 🐛 4 | 🌐 Go | 📅 2026-09-05 - A library written in Go
 * [Standard File Client Library](https://godoc.org/github.com/mdouchement/standardfile/pkg/libsf) - A library written in Go
 
 ## Servers
@@ -160,4 +160,4 @@ This list includes projects in various maintenance states. Labels help you under
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
