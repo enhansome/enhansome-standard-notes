@@ -1145,7 +1145,7 @@
                 "open_issues": 5,
                 "owner": "jonhadfield",
                 "repo": "sn-cli",
-                "stars": 95,
+                "stars": 94,
                 "topics": [
                   "cli",
                   "notes",
@@ -1574,7 +1574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:58:12.862Z",
+    "last_updated": "2026-09-06T05:07:52.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
