@@ -493,7 +493,7 @@
                 "open_issues": 18,
                 "owner": "arturolinares",
                 "repo": "sn-rme",
-                "stars": 146,
+                "stars": 147,
                 "topics": [
                   "sn-extensions",
                   "standardnotes"
@@ -1141,8 +1141,8 @@
                 "id": 147110819,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-02T23:00:18Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-07T00:33:07Z",
+                "open_issues": 6,
                 "owner": "jonhadfield",
                 "repo": "sn-cli",
                 "stars": 94,
@@ -1205,7 +1205,7 @@
                 "open_issues": 85,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1799,
+                "stars": 1802,
                 "topics": [
                   "converter",
                   "desktop-application",
@@ -1574,7 +1574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T05:07:52.027Z",
+    "last_updated": "2026-09-07T05:16:11.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
