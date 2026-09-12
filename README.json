@@ -1205,7 +1205,7 @@
                 "open_issues": 85,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1803,
+                "stars": 1804,
                 "topics": [
                   "converter",
                   "desktop-application",
@@ -1574,7 +1574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T05:19:16.515Z",
+    "last_updated": "2026-09-12T05:08:54.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
