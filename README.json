@@ -1090,7 +1090,7 @@
                 "open_issues": 0,
                 "owner": "gyaneesh",
                 "repo": "standardnotes-extensions",
-                "stars": 177,
+                "stars": 176,
                 "topics": [
                   "sn-extensions",
                   "standard-notes",
@@ -1574,7 +1574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T05:08:54.182Z",
+    "last_updated": "2026-09-13T05:24:20.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
@@ -1586,7 +1586,7 @@
       "open_issues": 0,
       "owner": "jonhadfield",
       "repo": "awesome-standard-notes",
-      "stars": 954,
+      "stars": 955,
       "topics": [
         "awesome",
         "awesome-list",
