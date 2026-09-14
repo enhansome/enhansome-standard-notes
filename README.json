@@ -1141,8 +1141,8 @@
                 "id": 147110819,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-07T00:33:07Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-14T00:32:47Z",
+                "open_issues": 7,
                 "owner": "jonhadfield",
                 "repo": "sn-cli",
                 "stars": 94,
@@ -1168,8 +1168,8 @@
                 "id": 195650676,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-31T14:19:07Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-13T22:30:31Z",
+                "open_issues": 5,
                 "owner": "jonhadfield",
                 "repo": "sn-dotfiles",
                 "stars": 27,
@@ -1205,7 +1205,7 @@
                 "open_issues": 85,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1804,
+                "stars": 1805,
                 "topics": [
                   "converter",
                   "desktop-application",
@@ -1574,7 +1574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T05:24:20.528Z",
+    "last_updated": "2026-09-14T05:29:39.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
