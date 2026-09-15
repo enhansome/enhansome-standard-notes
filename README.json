@@ -1141,7 +1141,7 @@
                 "id": 147110819,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-14T00:32:47Z",
+                "last_commit": "2026-09-14T16:18:12Z",
                 "open_issues": 7,
                 "owner": "jonhadfield",
                 "repo": "sn-cli",
@@ -1168,8 +1168,8 @@
                 "id": 195650676,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-13T22:30:31Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-14T16:04:16Z",
+                "open_issues": 4,
                 "owner": "jonhadfield",
                 "repo": "sn-dotfiles",
                 "stars": 27,
@@ -1574,7 +1574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T05:29:39.954Z",
+    "last_updated": "2026-09-15T05:27:01.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
