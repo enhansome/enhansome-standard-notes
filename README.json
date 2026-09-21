@@ -18,7 +18,7 @@
                 "language": "SCSS",
                 "license": "MIT",
                 "last_commit": "2024-07-10T16:38:15Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "christianhans",
                 "repo": "sn-gruvbox-dark-theme",
                 "stars": 67,
@@ -1141,8 +1141,8 @@
                 "id": 147110819,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-19T17:21:54Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-21T00:32:43Z",
+                "open_issues": 6,
                 "owner": "jonhadfield",
                 "repo": "sn-cli",
                 "stars": 94,
@@ -1168,8 +1168,8 @@
                 "id": 195650676,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-19T19:04:47Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-20T14:04:06Z",
+                "open_issues": 2,
                 "owner": "jonhadfield",
                 "repo": "sn-dotfiles",
                 "stars": 27,
@@ -1205,7 +1205,7 @@
                 "open_issues": 85,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1806,
+                "stars": 1805,
                 "topics": [
                   "converter",
                   "desktop-application",
@@ -1574,7 +1574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T05:27:26.871Z",
+    "last_updated": "2026-09-21T05:32:54.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",

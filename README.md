@@ -50,7 +50,7 @@ This list includes projects in various maintenance states. Labels help you under
 
 ### Themes
 
-* [Gruvbox Dark Theme](https://github.com/christianhans/sn-gruvbox-dark-theme) ⭐ 67 | 🐛 5 | 🌐 SCSS | 📅 2024-07-10 - Based on colors from the gruvbox theme for Vim.
+* [Gruvbox Dark Theme](https://github.com/christianhans/sn-gruvbox-dark-theme) ⭐ 67 | 🐛 4 | 🌐 SCSS | 📅 2024-07-10 - Based on colors from the gruvbox theme for Vim.
 * [Pure Black Theme](https://github.com/christianhans/sn-pure-black-theme) ⭐ 32 | 🐛 1 | 🌐 SCSS | 📅 2024-06-12 **\[Unmaintained]** - Theme for Standard Notes. Optimized for OLED devices such as iPhone X.
 * [Dracula theme](https://github.com/dracula/sn-theme-dracula) ⭐ 24 | 🐛 1 | 🌐 SCSS | 📅 2022-07-30 - A dark theme for Standard Notes.
 * [Muted Dark Theme](https://github.com/ntran/sn-theme-muteddark) ⭐ 19 | 🐛 2 | 🌐 SCSS | 📅 2022-12-06 - Standard Notes dark theme with non-vivid, muted colors
@@ -77,7 +77,7 @@ This list includes projects in various maintenance states. Labels help you under
 
 * [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) ⭐ 147 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-19 - The awesome editor developed by [Outline](https://www.getoutline.com/). Supports tables, YouTube embeds and text highlights.
 * [Official Extensions](https://github.com/standardnotes/plugins) ⭐ 123 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-05
-* [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append to your notes. Write GitHub Flavored Markdown via four different editing modes: Plain Textarea with spell check, in-line formatting provided by [CodeMirror](https://github.com/codemirror/codemirror) ⚠️ Archived, what-you-see-is-what-you-get live formatting provided by the [Rich Markdown Editor](https://github.com/outline/rich-markdown-editor) ⚠️ Archived developed by [Outline](https://www.getoutline.com/), and in-line syntax highlighting provided by the [Monaco Editor](https://github.com/microsoft/monaco-editor) ⭐ 46,779 | 🐛 861 | 🌐 JavaScript | 📅 2026-09-13. In addition to GFM, the Plain Textarea, CodeMirror, and Monaco modes support KaTeX, table of contents, footnotes, in-line HTML, and emoji codes. The Monaco mode also supports autocompletion, search and replace, and syntax highlighting for over 60 programming languages. The Append Editor has built-in support for printing notes and per-note font sizes, font families, and custom CSS.
+* [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append to your notes. Write GitHub Flavored Markdown via four different editing modes: Plain Textarea with spell check, in-line formatting provided by [CodeMirror](https://github.com/codemirror/codemirror) ⚠️ Archived, what-you-see-is-what-you-get live formatting provided by the [Rich Markdown Editor](https://github.com/outline/rich-markdown-editor) ⚠️ Archived developed by [Outline](https://www.getoutline.com/), and in-line syntax highlighting provided by the [Monaco Editor](https://github.com/microsoft/monaco-editor) ⭐ 46,784 | 🐛 863 | 🌐 JavaScript | 📅 2026-09-13. In addition to GFM, the Plain Textarea, CodeMirror, and Monaco modes support KaTeX, table of contents, footnotes, in-line HTML, and emoji codes. The Monaco mode also supports autocompletion, search and replace, and syntax highlighting for over 60 programming languages. The Append Editor has built-in support for printing notes and per-note font sizes, font families, and custom CSS.
 * [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor) ⭐ 48 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-10
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-12
 * [Marp Editor](https://github.com/TheodoreChu/marp-editor) ⚠️ Archived - Create presentation slides with [Marp](https://marp.app) and [Marpit Markdown](https://marpit.marp.app/markdown).
@@ -118,12 +118,12 @@ This list includes projects in various maintenance states. Labels help you under
 
 * [Extensions Repository Builder](https://github.com/iganeshk/standardnotes-extensions) ⚠️ Archived **\[Archived]** - Host Standard Notes extensions on your own server.
 * [standardnotes-fs](https://github.com/tannercollin/standardnotes-fs) ⚠️ Archived **\[Archived]** - Mount your Standard Notes account as a filesystem and edit your notes as plain text files. **Note: No longer functional.** <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
-* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 94 | 🐛 5 | 🌐 Go | 📅 2026-09-19 - Manage notes, tags, and other account operations
-* [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 1 | 🌐 Go | 📅 2026-09-19 - Sync and manage dotfiles using Standard Notes
+* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 94 | 🐛 6 | 🌐 Go | 📅 2026-09-21 - Manage notes, tags, and other account operations
+* [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2026-09-20 - Sync and manage dotfiles using Standard Notes
 
 ### Importers, Exporters, and Converters
 
-* [Yarle - The ultimate converter of Evernote notes to Markdown](https://github.com/akosbalasko/yarle) ⭐ 1,806 | 🐛 85 | 🌐 TypeScript | 📅 2026-03-31 - A fully configurable cross-platform desktop application to convert your Evernote notebooks (enex files) to Markdown format.
+* [Yarle - The ultimate converter of Evernote notes to Markdown](https://github.com/akosbalasko/yarle) ⭐ 1,805 | 🐛 85 | 🌐 TypeScript | 📅 2026-03-31 - A fully configurable cross-platform desktop application to convert your Evernote notebooks (enex files) to Markdown format.
 * [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,107 | 🐛 17 | 🌐 Go | 📅 2026-09-08 - Evernote2md is a CLI tool to convert Evernote notes exported in \*.enex format to a directory with markdown files.
 * [Standard Notes Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Simple CLI script to convert a decrypted Standard Notes Backup/Export into a structure of `<tag>/<note-title>.<file-extension>`.
 * [onestandard](https://github.com/oxhacks/onestandard) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - Convert notebooks from OneNote into Standard Notes format.
@@ -138,7 +138,7 @@ This list includes projects in various maintenance states. Labels help you under
 
 ## Libraries
 
-* [gosn-v2](https://github.com/jonhadfield/gosn-v2) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2026-09-19 - A library written in Go
+* [gosn-v2](https://github.com/jonhadfield/gosn-v2) ⭐ 18 | 🐛 3 | 🌐 Go | 📅 2026-09-21 - A library written in Go
 * [Standard File Client Library](https://godoc.org/github.com/mdouchement/standardfile/pkg/libsf) - A library written in Go
 
 ## Servers
@@ -148,7 +148,7 @@ This list includes projects in various maintenance states. Labels help you under
 
 ## Clients
 
-* [Iridium](https://github.com/standardnotes/forum/issues/1135) ⭐ 220 | 🐛 621 | 📅 2023-09-30 - A local-first client written in Rust and GTK, with support for any server and offline editing <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
+* [Iridium](https://github.com/standardnotes/forum/issues/1135) ⭐ 220 | 🐛 622 | 📅 2023-09-30 - A local-first client written in Rust and GTK, with support for any server and offline editing <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
 * [Flatpak](https://flathub.org/apps/details/org.standardnotes.standardnotes) - An unofficial Flatpak build.
 
 ## Listed
@@ -160,4 +160,4 @@ This list includes projects in various maintenance states. Labels help you under
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
