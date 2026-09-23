@@ -672,7 +672,7 @@
                 "open_issues": 3,
                 "owner": "corvec",
                 "repo": "sn-kanban-editor",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "kanban-editor",
                   "standard-notes"
@@ -1141,7 +1141,7 @@
                 "id": 147110819,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-21T18:01:49Z",
+                "last_commit": "2026-09-22T20:23:52Z",
                 "open_issues": 0,
                 "owner": "jonhadfield",
                 "repo": "sn-cli",
@@ -1247,7 +1247,7 @@
                 "open_issues": 17,
                 "owner": "wormi4ok",
                 "repo": "evernote2md",
-                "stars": 1107,
+                "stars": 1108,
                 "topics": [
                   "converter",
                   "evernote",
@@ -1574,7 +1574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T05:26:47.590Z",
+    "last_updated": "2026-09-23T05:14:48.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
@@ -1582,8 +1582,8 @@
       "id": 233403603,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-02-01T12:30:32Z",
-      "open_issues": 0,
+      "last_commit": "2026-09-22T20:24:07Z",
+      "open_issues": 1,
       "owner": "jonhadfield",
       "repo": "awesome-standard-notes",
       "stars": 956,

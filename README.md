@@ -77,18 +77,18 @@ This list includes projects in various maintenance states. Labels help you under
 
 * [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) ⭐ 147 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-19 - The awesome editor developed by [Outline](https://www.getoutline.com/). Supports tables, YouTube embeds and text highlights.
 * [Official Extensions](https://github.com/standardnotes/plugins) ⭐ 123 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-05
-* [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append to your notes. Write GitHub Flavored Markdown via four different editing modes: Plain Textarea with spell check, in-line formatting provided by [CodeMirror](https://github.com/codemirror/codemirror) ⚠️ Archived, what-you-see-is-what-you-get live formatting provided by the [Rich Markdown Editor](https://github.com/outline/rich-markdown-editor) ⚠️ Archived developed by [Outline](https://www.getoutline.com/), and in-line syntax highlighting provided by the [Monaco Editor](https://github.com/microsoft/monaco-editor) ⭐ 46,785 | 🐛 853 | 🌐 JavaScript | 📅 2026-09-21. In addition to GFM, the Plain Textarea, CodeMirror, and Monaco modes support KaTeX, table of contents, footnotes, in-line HTML, and emoji codes. The Monaco mode also supports autocompletion, search and replace, and syntax highlighting for over 60 programming languages. The Append Editor has built-in support for printing notes and per-note font sizes, font families, and custom CSS.
+* [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append to your notes. Write GitHub Flavored Markdown via four different editing modes: Plain Textarea with spell check, in-line formatting provided by [CodeMirror](https://github.com/codemirror/codemirror) ⚠️ Archived, what-you-see-is-what-you-get live formatting provided by the [Rich Markdown Editor](https://github.com/outline/rich-markdown-editor) ⚠️ Archived developed by [Outline](https://www.getoutline.com/), and in-line syntax highlighting provided by the [Monaco Editor](https://github.com/microsoft/monaco-editor) ⭐ 46,792 | 🐛 852 | 🌐 JavaScript | 📅 2026-09-21. In addition to GFM, the Plain Textarea, CodeMirror, and Monaco modes support KaTeX, table of contents, footnotes, in-line HTML, and emoji codes. The Monaco mode also supports autocompletion, search and replace, and syntax highlighting for over 60 programming languages. The Append Editor has built-in support for printing notes and per-note font sizes, font families, and custom CSS.
 * [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor) ⭐ 48 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-10
 * [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-12
 * [Marp Editor](https://github.com/TheodoreChu/marp-editor) ⚠️ Archived - Create presentation slides with [Marp](https://marp.app) and [Marpit Markdown](https://marpit.marp.app/markdown).
 * [Whiteboard](https://github.com/antonheitz/sn-whiteboard) ⭐ 35 | 🐛 7 | 🌐 SCSS | 📅 2023-01-11 - This editor utilizes TLDraw to enable you to freely draw and write, add sticky notes and shapes. Works on Desktop and Mobile.
-* [Kanban Editor](https://github.com/corvec/sn-kanban-editor) ⭐ 32 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-02 - Kanban Editor for Standard Notes. It integrates rcdexta/react-trello, a Kanban board editor, and saves your notes in Markdown so that you can easily read them, export them to Listed, etc.
+* [Kanban Editor](https://github.com/corvec/sn-kanban-editor) ⭐ 33 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-02 - Kanban Editor for Standard Notes. It integrates rcdexta/react-trello, a Kanban board editor, and saves your notes in Markdown so that you can easily read them, export them to Listed, etc.
 * [Cosmos](https://github.com/nienow/cosmos) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21 - Split a note into multiple areas. Each area can use a different editor. Install new editors more easily.
 * [Kanban Board](https://github.com/tryonlinux/kanban-board-sn) ⚠️ Archived **\[Archived]** - A simple Kanban style board editor for Standard Notes.
 * [Mermaid](https://github.com/nienow/sn-mermaid) ⭐ 17 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-01 - A diagram editor. Create Flow, Sequence, Class, State, Gantt, Pie, ER, User Journey, Git, Mindmap, or Quadrant diagrams.
 * [Excalidraw](https://github.com/nienow/sn-excalidraw) ⭐ 16 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-01 - A drawing/sketching editor that uses the Excalidraw library.
 * [Quill](https://github.com/nienow/sn-quill) ⭐ 12 | 🐛 2 | 🌐 CSS | 📅 2026-08-01 - A rich text editor that uses the Quill library.
-* [Music Editor](https://github.com/TheodoreChu/music-editor) ⚠️ Archived - Write music with [VexTab](https://github.com/0xfe/vextab) ⭐ 652 | 🐛 67 | 🌐 JavaScript | 📅 2026-04-15 and [VexFlow](https://github.com/0xfe/vexflow) ⭐ 4,385 | 🐛 52 | 🌐 TypeScript | 📅 2025-03-05.
+* [Music Editor](https://github.com/TheodoreChu/music-editor) ⚠️ Archived - Write music with [VexTab](https://github.com/0xfe/vextab) ⭐ 653 | 🐛 67 | 🌐 JavaScript | 📅 2026-04-15 and [VexFlow](https://github.com/0xfe/vexflow) ⭐ 4,386 | 🐛 52 | 🌐 TypeScript | 📅 2025-03-05.
 * [Home Inventory](https://github.com/tryonlinux/Home-Inventory-sn) ⚠️ Archived - An extension editor for Standard Notes to catalog home inventory (great for insurance purposes) in a solid and secure way.
 * [Savings Goal Tracker](https://github.com/tryonlinux/savings-goals-editor-sn) ⚠️ Archived - This is an editor for Standard Notes that allows you to track your savings goals within the app. You can add your goals and prioritize them by dragging and dropping them in the order you wish.
 * [Coin Inventory](https://github.com/tryonlinux/Coin-Inventory-sn) ⚠️ Archived - An extension editor for Standard Notes to catalog coin inventory in a solid and secure way. Numismatists rejoice!
@@ -118,13 +118,13 @@ This list includes projects in various maintenance states. Labels help you under
 
 * [Extensions Repository Builder](https://github.com/iganeshk/standardnotes-extensions) ⚠️ Archived **\[Archived]** - Host Standard Notes extensions on your own server.
 * [standardnotes-fs](https://github.com/tannercollin/standardnotes-fs) ⚠️ Archived **\[Archived]** - Mount your Standard Notes account as a filesystem and edit your notes as plain text files. **Note: No longer functional.** <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
-* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 94 | 🐛 0 | 🌐 Go | 📅 2026-09-21 - Manage notes, tags, and other account operations
+* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 94 | 🐛 0 | 🌐 Go | 📅 2026-09-22 - Manage notes, tags, and other account operations
 * [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2026-09-21 - Sync and manage dotfiles using Standard Notes
 
 ### Importers, Exporters, and Converters
 
 * [Yarle - The ultimate converter of Evernote notes to Markdown](https://github.com/akosbalasko/yarle) ⭐ 1,807 | 🐛 85 | 🌐 TypeScript | 📅 2026-03-31 - A fully configurable cross-platform desktop application to convert your Evernote notebooks (enex files) to Markdown format.
-* [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,107 | 🐛 17 | 🌐 Go | 📅 2026-09-08 - Evernote2md is a CLI tool to convert Evernote notes exported in \*.enex format to a directory with markdown files.
+* [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,108 | 🐛 17 | 🌐 Go | 📅 2026-09-08 - Evernote2md is a CLI tool to convert Evernote notes exported in \*.enex format to a directory with markdown files.
 * [Standard Notes Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Simple CLI script to convert a decrypted Standard Notes Backup/Export into a structure of `<tag>/<note-title>.<file-extension>`.
 * [onestandard](https://github.com/oxhacks/onestandard) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - Convert notebooks from OneNote into Standard Notes format.
 * [Standard Notes export to folder](https://github.com/danielnetop/sn-export-to-folder) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2023-11-25 - CLI tool to extract info from the Standard Notes decrypted export and transform it into folder based tags and notes. After the tool runs the tags will be folders and each note will be inside the respective folder.
@@ -160,4 +160,4 @@ This list includes projects in various maintenance states. Labels help you under
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
