@@ -2,162 +2,174 @@
 
 A curated list of tools and information relating to [Standard Notes](https://standardnotes.com/).
 
-Please take a look at the [contribution guidelines](CONTRIBUTING.md) before suggesting any changes. You can also have your extension hosted by the [official plugins directory](https://github.com/standardnotes/plugins) ⭐ 123 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-05.
+[Contribution guidelines](CONTRIBUTING.md) · [Official plugins](https://github.com/standardnotes/plugins) ⭐ 123 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-05 · [Discord](https://discord.gg/9VNW3kK554)
 
-## Status Labels
+## Contents
 
-This list includes projects in various maintenance states. Labels help you understand project availability:
-
-* **\[Archived]** - Read-only repository, no longer maintained by the original author
-* **\[Unmaintained]** - Repository is dormant but still accessible; may work but receives no updates
-* **\[v003 only]** - Only compatible with legacy Standard Notes protocol (pre-November 2020)
-* **\[May be unavailable]** - Link may be intermittently unavailable or moved
-
-### Contents
-
-* [Awesome Standard Notes](#awesome-standard-notes)
-  * [Contents](#contents)
-  * [Guides](#guides)
-  * [Extensions](#extensions)
-    * [Themes](#themes)
-    * [Editors](#editors)
-    * [Components](#components)
-    * [Fonts](#fonts)
-  * [Tools](#tools)
-    * [Browser](#browser)
-    * [Command Line](#command-line)
-    * [Importers, Exporters, and Converters](#importers-exporters-and-converters)
-  * [Libraries](#libraries)
-  * [Servers](#servers)
-  * [Clients](#clients)
-  * [Listed](#listed)
-    * [Themes](#themes-1)
+* [Guides](#guides)
+* [Extensions](#extensions)
+  * [Themes](#themes)
+  * [Editors](#editors)
+  * [Components](#components)
+  * [Fonts](#fonts)
+* [Tools](#tools)
+  * [Browser](#browser)
+  * [Command Line](#command-line)
+  * [Importers, Exporters, and Converters](#importers-exporters-and-converters)
+* [Libraries](#libraries)
+* [Servers](#servers)
+* [Clients](#clients)
+* [Status Labels](#status-labels)
 
 ## Guides
 
-* [Standard Notes Help](https://standardnotes.com/help)
-* [Self-Hosting Standard Notes](https://standardnotes.com/help/47/can-i-self-host-standard-notes)
-* [Self-Hosting Standard Notes on your own ARM Server like the Raspberry Pi](https://github.com/antonheitz/standard-notes-arm) ⭐ 10 | 🐛 0 | 📅 2023-01-22
-* [Self-Hosting Standard Notes Extensions with Docker-Compose](https://return2.net/dockerize-standard-notes-extensions/)
-* [Install Standard Notes (AppImage) on Linux](https://tekbyte.net/2020/integrating-standard-notes-into-linux/)
-* [How to Host Standard Notes Themes](https://blog.gunderson.tech/29891/how-to-host-standard-notes-themes)
-* [Creating Editor Extensions](https://randombits.dev/standard-notes/creating-extensions)
-* [Installing Extensions](https://randombits.dev/standard-notes/installing-extensions)
+* [Self-Hosting on ARM / Raspberry Pi](https://github.com/antonheitz/standard-notes-arm) ⭐ 10 | 🐛 0 | 📅 2023-01-22 - Run Standard Notes on ARM hardware.
+* [Editor Extension Template](https://github.com/nienow/sn-extension-template) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-01 - Starter template for building editor extensions.
+* [Standard Notes Help](https://standardnotes.com/help) - Official help center.
+* [Self-Hosting Standard Notes](https://standardnotes.com/help/47/can-i-self-host-standard-notes) - Official self-hosting guide.
+* [Introduction to Plugins](https://standardnotes.com/help/plugins/intro) - Official plugin development overview.
+* [Building a Theme Plugin](https://standardnotes.com/help/plugins/themes) - Official guide to creating themes.
+* [Self-Hosting Extensions with Docker Compose](https://return2.net/dockerize-standard-notes-extensions/) - Host community extensions with Docker.
+* [Install Standard Notes (AppImage) on Linux](https://www.tekbyte.net/integrating-standard-notes-into-linux/) - Integrate the AppImage desktop client on Linux.
+* [How to Host Standard Notes Themes](https://blog.gunderson.tech/29891/how-to-host-standard-notes-themes) - Host and install custom themes.
+* [Creating Editor Extensions](https://randombits.dev/standard-notes/creating-extensions) - Walkthrough for building editor extensions.
+* [Installing Extensions](https://randombits.dev/standard-notes/installing-extensions) - How to install third-party extensions.
 
 ## Extensions
 
-> Many of the extensions have outdated instructions in their README for where to install extensions. Go to Preferences -> General -> Advanced Options to install  extensions.
+> Install custom extensions via Preferences → General → Advanced Options. Many project READMEs still show outdated install steps.
 
 ### Themes
 
-* [Gruvbox Dark Theme](https://github.com/christianhans/sn-gruvbox-dark-theme) ⭐ 67 | 🐛 4 | 🌐 SCSS | 📅 2024-07-10 - Based on colors from the gruvbox theme for Vim.
-* [Pure Black Theme](https://github.com/christianhans/sn-pure-black-theme) ⭐ 32 | 🐛 1 | 🌐 SCSS | 📅 2024-06-12 **\[Unmaintained]** - Theme for Standard Notes. Optimized for OLED devices such as iPhone X.
-* [Dracula theme](https://github.com/dracula/sn-theme-dracula) ⭐ 24 | 🐛 1 | 🌐 SCSS | 📅 2022-07-30 - A dark theme for Standard Notes.
-* [Muted Dark Theme](https://github.com/ntran/sn-theme-muteddark) ⭐ 19 | 🐛 2 | 🌐 SCSS | 📅 2022-12-06 - Standard Notes dark theme with non-vivid, muted colors
-* [vscode-theme](https://github.com/hyphone/sn-theme-vscode) ⭐ 14 | 🐛 3 | 🌐 CSS | 📅 2026-03-26 **\[Unmaintained]** - A theme for Standard Notes inspired by the VS Code Dark theme that is easy on the eyes.
-* [Monospace for Markdown Editors](https://github.com/DanielNetoP/markdown-monospace) ⚠️ Archived - Monospace font for Standard Notes markdown editors (Toggle on top of other themes)
-* [Standard Notes Writer](https://github.com/eenpadvinder/standardnotes-writer) ⭐ 11 | 🐛 1 | 📅 2020-08-21 - Distraction free writing with word count
-* [One Dark Darker](https://github.com/eenpadvinder/standardnotes-theme-one-darker) ⭐ 10 | 🐛 1 | 📅 2020-08-21 - Based on the One Dark Darker theme for VS Code, with colored headings and some UI tweaks.
-* [Horizon Dark Theme](https://github.com/luisstd/sn-theme-horizon-dark) ⭐ 8 | 🐛 0 | 🌐 SCSS | 📅 2022-11-18 - Based on colors from the Horizon theme for VSCode.
-* [Monochrome Dark Theme](https://github.com/Parkertg/sn-theme-monochrome-dark) ⭐ 6 | 🐛 1 | 🌐 CSS | 📅 2022-11-11
-* [Slate Theme](https://github.com/yithian/slate-theme/) ⭐ 6 | 🐛 2 | 🌐 Go Template | 📅 2026-05-27 - A Standard Notes theme with shady grey and mossy green highlights.
-* [Serendipity Dark Theme](https://github.com/luisstd/sn-theme-serendipity-dark) ⭐ 3 | 🐛 0 | 🌐 SCSS | 📅 2023-12-17 - Dark theme based on the Serendipity theme.
-* [Subtle Light Theme](https://github.com/Parkertg/sn-theme-subtle-light) ⭐ 2 | 🐛 0 | 📅 2023-12-28
-* [Tangerine Theme](https://github.com/shompoe/sn-orange) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2023-03-23 - Newly updated for SN 3.9.15 onward. New installation link. Please re-install
-* [Dark Sense Theme](https://github.com/rsharuru/sn-theme-dark-sense) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2026-03-09 - Perfect for writing in the dark.
-* [Subtle Dark Theme](https://github.com/Parkertg/sn-theme-subtle-dark) ⭐ 1 | 🐛 0 | 🌐 SCSS | 📅 2023-12-28
-* [Overcast Theme](https://github.com/nienow/sn-theme-overcast) ⭐ 1 | 🐛 1 | 🌐 CSS | 📅 2025-12-08 - A simple grayscale theme.
-* [Moss Theme](https://github.com/TheMany172/SN-Moss-Theme) ⭐ 1 | 🐛 0 | 🌐 SCSS | 📅 2024-10-25 - Mossy green with orange accents - dark theme.
-* [Horizon Light Theme](https://github.com/luisstd/sn-theme-horizon-light) ⭐ 0 | 🐛 0 | 🌐 SCSS | 📅 2022-03-14 - Based on colors from the Horizon Theme for VSCode.
-* [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) ⭐ 0 | 🐛 0 | 📅 2021-02-23 - Based on One Dark Darker (listed above), but with a light background.
+* [Gruvbox Dark](https://github.com/christianhans/sn-gruvbox-dark-theme) ⭐ 67 | 🐛 4 | 🌐 SCSS | 📅 2024-07-10 - Based on the gruvbox Vim theme.
+* [Pure Black](https://github.com/christianhans/sn-pure-black-theme) ⭐ 32 | 🐛 1 | 🌐 SCSS | 📅 2024-06-12 **\[Unmaintained]** - OLED-friendly pure black theme.
+* [Dracula](https://github.com/dracula/standard-notes) ⭐ 24 | 🐛 1 | 🌐 SCSS | 📅 2022-07-30 - Dark theme based on the Dracula color scheme.
+* [Muted Dark](https://github.com/ntran/sn-theme-muteddark) ⭐ 19 | 🐛 2 | 🌐 SCSS | 📅 2022-12-06 - Dark theme with muted, non-vivid colors.
+* [Callisto](https://github.com/lissy93/callisto-theme-standard-notes) ⭐ 16 | 🐛 3 | 🌐 CSS | 📅 2026-09-13 - Dusty navy and teal palette.
+* [VS Code Dark](https://github.com/marcolaux/sn-theme-vscode) ⭐ 14 | 🐛 3 | 🌐 CSS | 📅 2026-03-26 - Inspired by the VS Code Dark theme.
+* [Markdown Monospace](https://github.com/DanielNetoP/markdown-monospace) ⚠️ Archived **\[Archived]** - Monospace font overlay for markdown editors.
+* [Writer](https://github.com/eenpadvinder/standardnotes-writer) ⭐ 11 | 🐛 1 | 📅 2020-08-21 - Distraction-free writing look with word count styling.
+* [One Dark Darker](https://github.com/eenpadvinder/standardnotes-theme-one-darker) ⭐ 10 | 🐛 1 | 📅 2020-08-21 - Based on One Dark Darker for VS Code, with colored headings.
+* [Horizon Dark](https://github.com/luisstd/sn-theme-horizon-dark) ⭐ 8 | 🐛 0 | 🌐 SCSS | 📅 2022-11-18 - Based on the Horizon VS Code theme.
+* [Monochrome Dark](https://github.com/Parkertg/sn-theme-monochrome-dark) ⭐ 6 | 🐛 1 | 🌐 CSS | 📅 2022-11-11 - Near-monochrome dark theme.
+* [Slate](https://github.com/yithian/slate-theme/) ⭐ 6 | 🐛 2 | 🌐 Go Template | 📅 2026-05-27 - Shady grey with mossy green highlights.
+* [Cobalt](https://github.com/PASSK3YS/cobalt) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2026-08-02 - Blue-inspired theme.
+* [Serendipity Dark](https://github.com/luisstd/sn-theme-serendipity-dark) ⭐ 3 | 🐛 0 | 🌐 SCSS | 📅 2023-12-17 - Dark theme based on Serendipity.
+* [Subtle Light](https://github.com/Parkertg/sn-theme-subtle-light) ⭐ 2 | 🐛 0 | 📅 2023-12-28 - Low-contrast light theme.
+* [Tangerine](https://github.com/shompoe/sn-orange) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2023-03-23 - Orange-accented theme (updated for SN 3.9.15+).
+* [Dark Sense](https://github.com/xzrelay/sn-theme-dark-sense) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2026-03-09 - Dark theme tuned for low-light writing.
+* [Subtle Dark](https://github.com/Parkertg/sn-theme-subtle-dark) ⭐ 1 | 🐛 0 | 🌐 SCSS | 📅 2023-12-28 - Low-contrast dark theme.
+* [Overcast](https://github.com/nienow/sn-theme-overcast) ⭐ 1 | 🐛 1 | 🌐 CSS | 📅 2025-12-08 - Simple grayscale theme.
+* [Moss](https://github.com/TheMany172/SN-Moss-Theme) ⭐ 1 | 🐛 0 | 🌐 SCSS | 📅 2024-10-25 - Mossy green with orange accents.
+* [Horizon Light](https://github.com/luisstd/sn-theme-horizon-light) ⭐ 0 | 🐛 0 | 🌐 SCSS | 📅 2022-03-14 - Light variant of the Horizon VS Code theme.
+* [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) ⭐ 0 | 🐛 0 | 📅 2021-02-23 - Light counterpart to One Dark Darker.
+* [Catppuccin](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30 - Catppuccin flavors: [Mocha](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Latte](https://github.com/JoeC-Dev/SN-catppuccin-latte) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Frappe](https://github.com/JoeC-Dev/SN-catppuccin-frappe) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Macchiato](https://github.com/JoeC-Dev/SN-catppuccin-macchiato) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30.
 
 ### Editors
 
-> A comparison of selected text editors can be found [here](https://github.com/dataprolet/standard-notes-editor-comparison) ⭐ 0 | 🐛 0 | 📅 2026-09-15.
+Compare selected editors in the [editor comparison](https://github.com/dataprolet/standard-notes-editor-comparison) ⭐ 0 | 🐛 0 | 📅 2026-09-15.
 
-* [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) ⭐ 147 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-19 - The awesome editor developed by [Outline](https://www.getoutline.com/). Supports tables, YouTube embeds and text highlights.
-* [Official Extensions](https://github.com/standardnotes/plugins) ⭐ 123 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-05
-* [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append to your notes. Write GitHub Flavored Markdown via four different editing modes: Plain Textarea with spell check, in-line formatting provided by [CodeMirror](https://github.com/codemirror/codemirror) ⚠️ Archived, what-you-see-is-what-you-get live formatting provided by the [Rich Markdown Editor](https://github.com/outline/rich-markdown-editor) ⚠️ Archived developed by [Outline](https://www.getoutline.com/), and in-line syntax highlighting provided by the [Monaco Editor](https://github.com/microsoft/monaco-editor) ⭐ 46,792 | 🐛 852 | 🌐 JavaScript | 📅 2026-09-21. In addition to GFM, the Plain Textarea, CodeMirror, and Monaco modes support KaTeX, table of contents, footnotes, in-line HTML, and emoji codes. The Monaco mode also supports autocompletion, search and replace, and syntax highlighting for over 60 programming languages. The Append Editor has built-in support for printing notes and per-note font sizes, font families, and custom CSS.
-* [Standard Notes Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor) ⭐ 48 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-10
-* [Org mode for Standard Notes](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-12
-* [Marp Editor](https://github.com/TheodoreChu/marp-editor) ⚠️ Archived - Create presentation slides with [Marp](https://marp.app) and [Marpit Markdown](https://marpit.marp.app/markdown).
-* [Whiteboard](https://github.com/antonheitz/sn-whiteboard) ⭐ 35 | 🐛 7 | 🌐 SCSS | 📅 2023-01-11 - This editor utilizes TLDraw to enable you to freely draw and write, add sticky notes and shapes. Works on Desktop and Mobile.
-* [Kanban Editor](https://github.com/corvec/sn-kanban-editor) ⭐ 33 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-02 - Kanban Editor for Standard Notes. It integrates rcdexta/react-trello, a Kanban board editor, and saves your notes in Markdown so that you can easily read them, export them to Listed, etc.
-* [Cosmos](https://github.com/nienow/cosmos) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21 - Split a note into multiple areas. Each area can use a different editor. Install new editors more easily.
-* [Kanban Board](https://github.com/tryonlinux/kanban-board-sn) ⚠️ Archived **\[Archived]** - A simple Kanban style board editor for Standard Notes.
-* [Mermaid](https://github.com/nienow/sn-mermaid) ⭐ 17 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-01 - A diagram editor. Create Flow, Sequence, Class, State, Gantt, Pie, ER, User Journey, Git, Mindmap, or Quadrant diagrams.
-* [Excalidraw](https://github.com/nienow/sn-excalidraw) ⭐ 16 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-01 - A drawing/sketching editor that uses the Excalidraw library.
-* [Quill](https://github.com/nienow/sn-quill) ⭐ 12 | 🐛 2 | 🌐 CSS | 📅 2026-08-01 - A rich text editor that uses the Quill library.
-* [Music Editor](https://github.com/TheodoreChu/music-editor) ⚠️ Archived - Write music with [VexTab](https://github.com/0xfe/vextab) ⭐ 653 | 🐛 67 | 🌐 JavaScript | 📅 2026-04-15 and [VexFlow](https://github.com/0xfe/vexflow) ⭐ 4,386 | 🐛 52 | 🌐 TypeScript | 📅 2025-03-05.
-* [Home Inventory](https://github.com/tryonlinux/Home-Inventory-sn) ⚠️ Archived - An extension editor for Standard Notes to catalog home inventory (great for insurance purposes) in a solid and secure way.
-* [Savings Goal Tracker](https://github.com/tryonlinux/savings-goals-editor-sn) ⚠️ Archived - This is an editor for Standard Notes that allows you to track your savings goals within the app. You can add your goals and prioritize them by dragging and dropping them in the order you wish.
-* [Coin Inventory](https://github.com/tryonlinux/Coin-Inventory-sn) ⚠️ Archived - An extension editor for Standard Notes to catalog coin inventory in a solid and secure way. Numismatists rejoice!
-* [Tui Markdown Editor](https://github.com/MortalHappiness/sn-tui.editor) ⚠️ Archived - A markdown editor using [Toast UI Markdown Editor](https://github.com/nhn/tui.editor) ⚠️ Archived.
-* [Precious Metals](https://github.com/tryonlinux/Precious-Metals-Inventory-sn) ⚠️ Archived - An extension editor for Standard Notes to keep track of what precious metals you have and their values.
-* [Standard Notes Nimble Editor](https://hub.darcs.net/jandrew/sn-nimble-editor) **\[May be unavailable]**
-* [Flashcard Editor](https://github.com/TheodoreChu/flashcard-editor)
-* [Scratch](https://dylanonelson.github.io/sn-scratch-editor/) **\[May be unavailable]** - Scratch includes most of the text editing features you would expect for taking notes, like lists, checkboxes, basic text formatting, smart copy/paste, and hotkeys.
+#### General
+
+* [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) ⭐ 147 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-19 - Outline-based editor with tables, embeds, and highlights.
+* [Official Plugins](https://github.com/standardnotes/plugins) ⭐ 123 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-05 - Official and community plugins directory.
+* [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append-focused Markdown editor with Textarea, CodeMirror, Outline RME, and Monaco modes.
+* [Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor) ⭐ 48 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-10 - Outliner-style indenting editor.
+* [Org Mode](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-12 - Org mode editor for Standard Notes.
+* [Cosmos](https://github.com/nienow/cosmos) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21 - Split a note into multiple areas, each with its own editor.
+* [Quill](https://github.com/nienow/sn-quill) ⭐ 12 | 🐛 2 | 🌐 CSS | 📅 2026-08-01 - Rich text editor based on Quill.
+* [TUI Markdown Editor](https://github.com/MortalHappiness/sn-tui.editor) ⚠️ Archived **\[Archived]** - Markdown editor built on Toast UI Editor.
+* [Nimble Editor](https://hub.darcs.net/jandrew/sn-nimble-editor) **\[May be unavailable]** - Lightweight text editor.
+* [Scratch](https://dylanonelson.github.io/sn-scratch-editor/) **\[May be unavailable]** - Rich text notes with lists, checkboxes, and hotkeys.
+
+#### Boards and diagrams
+
+* [Marp Editor](https://github.com/TheodoreChu/marp-editor) ⚠️ Archived **\[Archived]** - Presentation slides with Marp / Marpit Markdown.
+* [Whiteboard](https://github.com/antonheitz/sn-whiteboard) ⭐ 35 | 🐛 7 | 🌐 SCSS | 📅 2023-01-11 - Freeform drawing and sticky notes via TLDraw.
+* [Kanban Editor](https://github.com/corvec/sn-kanban-editor) ⭐ 33 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-02 - Kanban board that stores notes as Markdown.
+* [Kanban Board](https://github.com/tryonlinux/kanban-board-sn) ⚠️ Archived **\[Archived]** - Simple Kanban board editor.
+* [Mermaid](https://github.com/nienow/sn-mermaid) ⭐ 17 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-01 - Diagram editor for flow, sequence, Gantt, and more.
+* [Excalidraw](https://github.com/nienow/sn-excalidraw) ⭐ 16 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-01 - Sketching editor based on Excalidraw.
+
+#### Specialty
+
+* [Music Editor](https://github.com/TheodoreChu/music-editor) ⚠️ Archived **\[Archived]** - Write music with VexTab and VexFlow.
+* [Home Inventory](https://github.com/tryonlinux/Home-Inventory-sn) ⚠️ Archived - Catalog home inventory securely.
+* [Savings Goal Tracker](https://github.com/tryonlinux/savings-goals-editor-sn) ⚠️ Archived - Prioritize and track savings goals.
+* [Coin Inventory](https://github.com/tryonlinux/Coin-Inventory-sn) ⚠️ Archived - Catalog coin collections.
+* [IronCalc](https://github.com/iamanaws/sn-ironcalc) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-28 - Spreadsheet editor powered by IronCalc.
+* [Precious Metals](https://github.com/tryonlinux/Precious-Metals-Inventory-sn) ⚠️ Archived - Track precious metal holdings and values.
 
 ### Components
 
-* [Pomodoro Timer](https://github.com/tryonlinux/pomodoro-sn/) ⚠️ Archived - Pomodoro timer for Standard Notes in the Editor Bottom Bar
+* [Pomodoro Timer](https://github.com/tryonlinux/pomodoro-sn/) ⚠️ Archived - Pomodoro timer in the editor bottom bar.
 
 ### Fonts
 
-* [SF Pro Text](https://github.com/christianhans/sn-sf-pro-text-font) ⭐ 16 | 🐛 0 | 📅 2022-01-25
-* [JetBrains Mono](https://github.com/aiFdn/SN-JetBrains-Mono) ⭐ 6 | 🐛 0 | 🌐 CSS | 📅 2024-12-16
+* [SF Pro Text](https://github.com/christianhans/sn-sf-pro-text-font) ⭐ 16 | 🐛 0 | 📅 2022-01-25 - Apple SF Pro Text font package.
+* [JetBrains Mono](https://github.com/aiFdn/SN-JetBrains-Mono) ⭐ 6 | 🐛 0 | 🌐 CSS | 📅 2024-12-16 - JetBrains Mono font package.
 
 ## Tools
 
 ### Browser
 
-* [Standard Notes Clipper](https://github.com/johnjones4/Standard-Notes-Clipper) ⚠️ Archived **\[Archived]** - A browser add-on (Firefox and Chrome) that allows you to clip web pages to your Standard Notes account. 🔻Please note this reported [issue](https://github.com/johnjones4/Standard-Notes-Clipper/issues/34) ⚠️ Archived
-* [Page Link & Title → Note](https://github.com/mllocs/standard-notes-chrome-extension) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2020-12-05 **\[Unmaintained]** - Takes the title and link of a web page and creates a note using the same title and inserts the link into the body.
+* [Page Link & Title → Note](https://github.com/mllocs/standard-notes-chrome-extension) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2020-12-05 **\[Unmaintained]** - Create a note from the current page title and URL.
 
 ### Command Line
 
-* [Extensions Repository Builder](https://github.com/iganeshk/standardnotes-extensions) ⚠️ Archived **\[Archived]** - Host Standard Notes extensions on your own server.
-* [standardnotes-fs](https://github.com/tannercollin/standardnotes-fs) ⚠️ Archived **\[Archived]** - Mount your Standard Notes account as a filesystem and edit your notes as plain text files. **Note: No longer functional.** <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
-* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 94 | 🐛 0 | 🌐 Go | 📅 2026-09-22 - Manage notes, tags, and other account operations
-* [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2026-09-21 - Sync and manage dotfiles using Standard Notes
+* [Open Extended](https://github.com/kylejbrk/standard-notes-open-extended) ⭐ 106 | 🐛 2 | 🌐 Python | 📅 2022-11-04 - Community-hosted catalog of installable extensions.
+* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 94 | 🐛 0 | 🌐 Go | 📅 2026-09-22 - Manage notes, tags, and account operations from the terminal.
+* [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2026-09-23 - Sync and manage dotfiles with Standard Notes.
+* [Extensions Server](https://github.com/sentriz/standardnotes-extensions) ⭐ 20 | 🐛 3 | 🌐 Go | 📅 2023-02-25 - Auto-updating Docker/Go host for extensions.
+* [MCP Standard Notes](https://github.com/lozit/mcp-standardnotes) ⭐ 9 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08 - MCP server with end-to-end encryption.
 
 ### Importers, Exporters, and Converters
 
-* [Yarle - The ultimate converter of Evernote notes to Markdown](https://github.com/akosbalasko/yarle) ⭐ 1,807 | 🐛 85 | 🌐 TypeScript | 📅 2026-03-31 - A fully configurable cross-platform desktop application to convert your Evernote notebooks (enex files) to Markdown format.
-* [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,108 | 🐛 17 | 🌐 Go | 📅 2026-09-08 - Evernote2md is a CLI tool to convert Evernote notes exported in \*.enex format to a directory with markdown files.
-* [Standard Notes Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Simple CLI script to convert a decrypted Standard Notes Backup/Export into a structure of `<tag>/<note-title>.<file-extension>`.
-* [onestandard](https://github.com/oxhacks/onestandard) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - Convert notebooks from OneNote into Standard Notes format.
-* [Standard Notes export to folder](https://github.com/danielnetop/sn-export-to-folder) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2023-11-25 - CLI tool to extract info from the Standard Notes decrypted export and transform it into folder based tags and notes. After the tool runs the tags will be folders and each note will be inside the respective folder.
-* [Day One => Standard Notes Importer](https://github.com/ArneTR/standardnotes_day_one_importer) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2019-09-02 - Day One JSON Export Importer for Standard Notes
-* [Google Keep™ to StandardNotes Converter](https://github.com/vantezzen/Google-Keep-to-Standardnotes-Converter) ⚠️ Archived **\[Archived]** - Convert Google Keep Takeout archive into Standardnotes archive
-* [simplenote2standardnote](https://github.com/edas/simplenote2standardnote) ⚠️ Archived **\[Archived]** - Port a SimpleNote backup to a StandardNote one, keeping dates and tags
-* [notexfr](https://github.com/rafaelespinoza/notexfr) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2026-09-02 - notexfr is a tool to convert and adapt data for transfer between note-taking services
-* [BB10 Remember → Standard Notes plaintext(/super note) import format Converter](https://github.com/jayb-g/bbrem2sn) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-07-18 - A simple python program to convert BlackBerry10 Remember Notes backup(backed-up using Runisoft Ultimate Backup on BB10) to Standard Notes importable format with preserved formatting, attachments and timestamps.
-* [Google Keep to Standard Notes nodeJS converter](https://standardnotes.com/help/35/how-can-i-import-my-notes-from-google-keep) - Simple NodeJS script to convert a Google Keep Takeout export into a decrypted Standard Notes backup (Now part of StandardNotes).
-* [Aegis to TokenVault](https://gist.github.com/kahnwong/e94933bb80888e4b7f75df4d90645cbe) - Export secret keys and account info from Aegis, then use this python script to format it into something the TokenVault Editor can use.
+* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,807 | 🐛 85 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
+* [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,108 | 🐛 17 | 🌐 Go | 📅 2026-09-08 - Convert Evernote `.enex` exports to Markdown files.
+* [Jimmy](https://github.com/marph91/jimmy) ⭐ 532 | 🐛 14 | 🌐 Python | 📅 2026-09-13 - Convert notes from many apps (including Standard Notes) to Markdown.
+* [Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Turn a decrypted backup into `<tag>/<note>.<ext>` folders.
+* [onestandard](https://github.com/oxhacks/onestandard) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - Convert OneNote notebooks to Standard Notes format.
+* [Export to Folder](https://github.com/danielnetop/sn-export-to-folder) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2023-11-25 - Extract a decrypted export into tag folders and note files.
+* [Day One Importer](https://github.com/ArneTR/standardnotes_day_one_importer) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2019-09-02 - Import Day One JSON exports.
+* [Google Keep Converter](https://github.com/vantezzen/Google-Keep-to-Standardnotes-Converter) ⚠️ Archived **\[Archived]** - Convert Google Keep Takeout archives.
+* [simplenote2standardnote](https://github.com/edas/simplenote2standardnote) ⚠️ Archived **\[Archived]** - Port Simplenote backups with dates and tags.
+* [notexfr](https://github.com/rafaelespinoza/notexfr) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2026-09-02 - Convert and adapt data between note-taking services.
+* [BB10 Remember Converter](https://github.com/jayb-g/bbrem2sn) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-07-18 - Convert BlackBerry 10 Remember backups to Standard Notes import format.
+* [Official Google Keep Import](https://standardnotes.com/help/35/how-can-i-import-my-notes-from-google-keep) - Official Keep → Standard Notes conversion help.
+* [Aegis to TokenVault](https://gist.github.com/kahnwong/e94933bb80888e4b7f75df4d90645cbe) - Format Aegis exports for the TokenVault editor.
 
 ## Libraries
 
-* [gosn-v2](https://github.com/jonhadfield/gosn-v2) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2026-09-21 - A library written in Go
-* [Standard File Client Library](https://godoc.org/github.com/mdouchement/standardfile/pkg/libsf) - A library written in Go
+* [gosn-v2](https://github.com/jonhadfield/gosn-v2) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2026-09-21 - Go client library for Standard Notes.
+* [Standard File Client Library](https://pkg.go.dev/github.com/mdouchement/standardfile/pkg/libsf) - Go client library for the Standard File protocol.
 
 ## Servers
 
-* [Yet Another Standardfile](https://github.com/mdouchement/standardfile) ⭐ 83 | 🐛 10 | 🌐 Go | 📅 2026-05-30 - A Standard Notes Server implementation written in Go
-* [Standard Notes & Docker](https://github.com/mdouchement/standardnotes) ⚠️ Archived - Dockerization of Standard File server. Used for running your own Standard Notes server
+* [Official Sync Server](https://github.com/standardnotes/server) ⭐ 480 | 🐛 71 | 🌐 TypeScript | 📅 2026-09-21 - Official self-hostable sync server.
+* [Yet Another Standardfile](https://github.com/mdouchement/standardfile) ⭐ 83 | 🐛 10 | 🌐 Go | 📅 2026-05-30 - Standard Notes–compatible server written in Go.
 
 ## Clients
 
-* [Iridium](https://github.com/standardnotes/forum/issues/1135) ⭐ 220 | 🐛 622 | 📅 2023-09-30 - A local-first client written in Rust and GTK, with support for any server and offline editing <sub><sup>([SN version 003 only](VERSIONS.md "Not compatible with version 004 accounts: those created or upgraded after Nov 2020"))</sub></sup>
-* [Flatpak](https://flathub.org/apps/details/org.standardnotes.standardnotes) - An unofficial Flatpak build.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,634 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-23 - Official web, desktop, and mobile clients.
+* [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
+* [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
-## Listed
+## Status Labels
 
-### Themes
+Projects may include a maintenance label:
 
-* [Marcokai Theme](https://github.com/marcoceppi/listed-marcokai) ⭐ 5 | 🐛 0 | 🌐 CSS | 📅 2021-03-16 - A dark theme with modified monokai syntax highlighting
-* [Dracula Styled Theme](https://github.com/cameronldn/sn-listed-theme-dracula) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2020-02-24 - A Dracula Styled theme for your listed blog.
+* **\[Archived]** — Read-only; no longer maintained by the original author.
+* **\[Unmaintained]** — Dormant but still accessible; may work, receives no updates.
+* **\[v003 only]** — Only compatible with the legacy protocol (pre-November 2020). See [VERSIONS.md](VERSIONS.md).
+* **\[May be unavailable]** — Link may be intermittently unavailable or moved.
+
+## Related
+
+* [standardnotes.com](https://standardnotes.com/) — Product site and apps.
+* [Protocol versions](VERSIONS.md) — Client/protocol compatibility notes.
+* [Discord](https://discord.gg/9VNW3kK554) — Community chat.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

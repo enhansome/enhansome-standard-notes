@@ -1,14 +1,72 @@
 {
   "items": [
     {
-      "description": "Many of the extensions have outdated instructions in their README for where to install extensions. Go to Preferences -> General -> Advanced Options to install extensions.",
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Self-Hosting on ARM / Raspberry Pi",
+          "description": "Run Standard Notes on ARM hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-host your own Standard Notes server on ARM devices",
+            "homepage": null,
+            "id": 576196872,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2023-01-22T14:37:29Z",
+            "open_issues": 0,
+            "owner": "antonheitz",
+            "repo": "standard-notes-arm",
+            "stars": 10,
+            "topics": [
+              "arm",
+              "arm64",
+              "docker",
+              "raspberry-pi",
+              "self-hosted",
+              "server",
+              "standard-notes"
+            ]
+          },
+          "first_seen": "2026-09-24T05:29:34.614Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Editor Extension Template",
+          "description": "Starter template for building editor extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Standard Notes Editor Extension Starter Template",
+            "homepage": "https://nienow.github.io/sn-extension-template/demo.html",
+            "id": 616520699,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-01T12:38:38Z",
+            "open_issues": 0,
+            "owner": "nienow",
+            "repo": "sn-extension-template",
+            "stars": 10,
+            "topics": [
+              "standard-notes"
+            ]
+          },
+          "first_seen": "2026-09-24T05:29:34.614Z"
+        }
+      ],
+      "title": "Guides"
+    },
+    {
+      "description": "Install custom extensions via Preferences → General → Advanced Options. Many project READMEs still show outdated install steps.",
       "items": [
         {
           "children": [
             {
               "node_type": "item",
-              "title": "Gruvbox Dark Theme",
-              "description": "Based on colors from the gruvbox theme for Vim.",
+              "title": "Gruvbox Dark",
+              "description": "Based on the gruvbox Vim theme.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -32,8 +90,8 @@
             },
             {
               "node_type": "item",
-              "title": "Pure Black Theme",
-              "description": "[Unmaintained] - Theme for Standard Notes. Optimized for OLED devices such as iPhone X.",
+              "title": "Pure Black",
+              "description": "[Unmaintained] - OLED-friendly pure black theme.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -53,8 +111,8 @@
             },
             {
               "node_type": "item",
-              "title": "Dracula theme",
-              "description": "A dark theme for Standard Notes.",
+              "title": "Dracula",
+              "description": "Dark theme based on the Dracula color scheme.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -78,8 +136,8 @@
             },
             {
               "node_type": "item",
-              "title": "Muted Dark Theme",
-              "description": "Standard Notes dark theme with non-vivid, muted colors",
+              "title": "Muted Dark",
+              "description": "Dark theme with muted, non-vivid colors.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -99,8 +157,33 @@
             },
             {
               "node_type": "item",
-              "title": "vscode-theme",
-              "description": "[Unmaintained] - A theme for Standard Notes inspired by the VS Code Dark theme that is easy on the eyes.",
+              "title": "Callisto",
+              "description": "Dusty navy and teal palette.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🌑 A dusty navy and teal color theme for Standard Notes and Listed.to",
+                "homepage": null,
+                "id": 350139407,
+                "language": "CSS",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-09-13T01:25:46Z",
+                "open_issues": 3,
+                "owner": "lissy93",
+                "repo": "callisto-theme-standard-notes",
+                "stars": 16,
+                "topics": [
+                  "callisto",
+                  "standardnotes",
+                  "theme"
+                ]
+              },
+              "first_seen": "2026-09-24T05:29:34.614Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VS Code Dark",
+              "description": "Inspired by the VS Code Dark theme.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -120,8 +203,8 @@
             },
             {
               "node_type": "item",
-              "title": "Monospace for Markdown Editors",
-              "description": "Monospace font for Standard Notes markdown editors (Toggle on top of other themes)",
+              "title": "Markdown Monospace",
+              "description": "[Archived] - Monospace font overlay for markdown editors.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -148,8 +231,8 @@
             },
             {
               "node_type": "item",
-              "title": "Standard Notes Writer",
-              "description": "Distraction free writing with word count",
+              "title": "Writer",
+              "description": "Distraction-free writing look with word count styling.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -170,7 +253,7 @@
             {
               "node_type": "item",
               "title": "One Dark Darker",
-              "description": "Based on the One Dark Darker theme for VS Code, with colored headings and some UI tweaks.",
+              "description": "Based on One Dark Darker for VS Code, with colored headings.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -190,8 +273,8 @@
             },
             {
               "node_type": "item",
-              "title": "Horizon Dark Theme",
-              "description": "Based on colors from the Horizon theme for VSCode.",
+              "title": "Horizon Dark",
+              "description": "Based on the Horizon VS Code theme.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -214,8 +297,8 @@
             },
             {
               "node_type": "item",
-              "title": "Monochrome Dark Theme",
-              "description": null,
+              "title": "Monochrome Dark",
+              "description": "Near-monochrome dark theme.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -241,8 +324,8 @@
             },
             {
               "node_type": "item",
-              "title": "Slate Theme",
-              "description": "A Standard Notes theme with shady grey and mossy green highlights.",
+              "title": "Slate",
+              "description": "Shady grey with mossy green highlights.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -262,8 +345,34 @@
             },
             {
               "node_type": "item",
-              "title": "Serendipity Dark Theme",
-              "description": "Dark theme based on the Serendipity theme.",
+              "title": "Cobalt",
+              "description": "Blue-inspired theme.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A blue inspired theme for Standard Notes",
+                "homepage": "https://kieran.colfer.net/tools/standard-notes-themes/",
+                "id": 677820693,
+                "language": "CSS",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-02T18:34:30Z",
+                "open_issues": 0,
+                "owner": "PASSK3YS",
+                "repo": "cobalt",
+                "stars": 4,
+                "topics": [
+                  "standard-notes",
+                  "standardnotes",
+                  "theme",
+                  "themes"
+                ]
+              },
+              "first_seen": "2026-09-24T05:29:34.614Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Serendipity Dark",
+              "description": "Dark theme based on Serendipity.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -286,8 +395,8 @@
             },
             {
               "node_type": "item",
-              "title": "Subtle Light Theme",
-              "description": null,
+              "title": "Subtle Light",
+              "description": "Low-contrast light theme.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -312,8 +421,8 @@
             },
             {
               "node_type": "item",
-              "title": "Tangerine Theme",
-              "description": "Newly updated for SN 3.9.15 onward. New installation link. Please re-install",
+              "title": "Tangerine",
+              "description": "Orange-accented theme (updated for SN 3.9.15+).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -333,8 +442,8 @@
             },
             {
               "node_type": "item",
-              "title": "Dark Sense Theme",
-              "description": "Perfect for writing in the dark.",
+              "title": "Dark Sense",
+              "description": "Dark theme tuned for low-light writing.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -354,8 +463,8 @@
             },
             {
               "node_type": "item",
-              "title": "Subtle Dark Theme",
-              "description": null,
+              "title": "Subtle Dark",
+              "description": "Low-contrast dark theme.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -382,8 +491,8 @@
             },
             {
               "node_type": "item",
-              "title": "Overcast Theme",
-              "description": "A simple grayscale theme.",
+              "title": "Overcast",
+              "description": "Simple grayscale theme.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -406,8 +515,8 @@
             },
             {
               "node_type": "item",
-              "title": "Moss Theme",
-              "description": "Mossy green with orange accents - dark theme.",
+              "title": "Moss",
+              "description": "Mossy green with orange accents.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -427,8 +536,8 @@
             },
             {
               "node_type": "item",
-              "title": "Horizon Light Theme",
-              "description": "Based on colors from the Horizon Theme for VSCode.",
+              "title": "Horizon Light",
+              "description": "Light variant of the Horizon VS Code theme.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -452,7 +561,7 @@
             {
               "node_type": "item",
               "title": "One Light Lighter",
-              "description": "Based on One Dark Darker (listed above), but with a light background.",
+              "description": "Light counterpart to One Dark Darker.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -469,6 +578,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Catppuccin",
+              "description": "Catppuccin flavors: Mocha, Latte, Frappe, Macchiato.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "catpuccin themeing for standard notes",
+                "homepage": "https://joec-dev.github.io/SN-catppuccin-mocha/",
+                "id": 1251892325,
+                "language": "CSS",
+                "license": null,
+                "last_commit": "2026-05-30T20:35:24Z",
+                "open_issues": 0,
+                "owner": "JoeC-Dev",
+                "repo": "SN-catppuccin-mocha",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-24T05:29:34.614Z"
             }
           ],
           "description": null,
@@ -478,458 +608,500 @@
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "Rich Markdown Editor",
-              "description": "The awesome editor developed by Outline. Supports tables, YouTube embeds and text highlights.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rich Markdown Editor for Standard Notes",
-                "homepage": null,
-                "id": 288746435,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2022-01-19T00:56:51Z",
-                "open_issues": 18,
-                "owner": "arturolinares",
-                "repo": "sn-rme",
-                "stars": 147,
-                "topics": [
-                  "sn-extensions",
-                  "standardnotes"
-                ]
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Official Extensions",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Rich Markdown Editor",
+                  "description": "Outline-based editor with tables, embeds, and highlights.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Rich Markdown Editor for Standard Notes",
+                    "homepage": null,
+                    "id": 288746435,
+                    "language": "JavaScript",
+                    "license": null,
+                    "last_commit": "2022-01-19T00:56:51Z",
+                    "open_issues": 18,
+                    "owner": "arturolinares",
+                    "repo": "sn-rme",
+                    "stars": 147,
+                    "topics": [
+                      "sn-extensions",
+                      "standardnotes"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Official Plugins",
+                  "description": "Official and community plugins directory.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Community plugins for Standard Notes — Experimental 🧪",
+                    "homepage": null,
+                    "id": 508869674,
+                    "language": "TypeScript",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-05T15:16:33Z",
+                    "open_issues": 19,
+                    "owner": "standardnotes",
+                    "repo": "plugins",
+                    "stars": 123,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Append Editor",
+                  "description": "Append-focused Markdown editor with Textarea, CodeMirror, Outline RME, and Monaco modes.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Append to your notes @StandardNotes with GitHub Flavored Markdown via CodeMirror, Rich Markdown, and Monaco",
+                    "homepage": "https://theodorechu.github.io/append-editor",
+                    "id": 255270527,
+                    "language": "JavaScript",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-04-12T21:12:20Z",
+                    "open_issues": 44,
+                    "owner": "theodorechu",
+                    "repo": "append-editor",
+                    "stars": 89,
+                    "topics": [
+                      "codemirror",
+                      "end-to-end-encryption",
+                      "javascript",
+                      "katex",
+                      "markdown-editor",
+                      "monaco-editor",
+                      "rehype",
+                      "remark",
+                      "sn-extensions",
+                      "standardnotes",
+                      "typescript",
+                      "wysiwyg",
+                      "wysiwyg-editor"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Indent Editor",
+                  "description": "Outliner-style indenting editor.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A simple text editor that makes it easy to write and read nested notes in https://standardnotes.org/",
+                    "homepage": null,
+                    "id": 231703126,
+                    "language": "JavaScript",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-01-10T21:00:02Z",
+                    "open_issues": 4,
+                    "owner": "MaxLap",
+                    "repo": "standard-notes-indent-editor",
+                    "stars": 48,
+                    "topics": [
+                      "code-mirror",
+                      "standard-notes"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Org Mode",
+                  "description": "Org mode editor for Standard Notes.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Org mode for Standard Notes! Demo: https://ryanpcmcquen.org/standardnotes_org_mode_editor/",
+                    "homepage": null,
+                    "id": 115305913,
+                    "language": "JavaScript",
+                    "license": "MPL-2.0",
+                    "last_commit": "2021-10-12T06:55:23Z",
+                    "open_issues": 1,
+                    "owner": "ryanpcmcquen",
+                    "repo": "standardnotes_org_mode_editor",
+                    "stars": 39,
+                    "topics": [
+                      "hacktoberfest",
+                      "org-mode",
+                      "standardnotes"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cosmos",
+                  "description": "Split a note into multiple areas, each with its own editor.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Standard Notes Extension that allows splitting a note into multiple areas",
+                    "homepage": "https://nienow.github.io/cosmos/demo.html",
+                    "id": 618977320,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-08-21T11:55:22Z",
+                    "open_issues": 0,
+                    "owner": "nienow",
+                    "repo": "cosmos",
+                    "stars": 19,
+                    "topics": [
+                      "extension",
+                      "plugin",
+                      "standard-notes"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Quill",
+                  "description": "Rich text editor based on Quill.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Standard Notes Extension that uses the Quill Rich Text Editor",
+                    "homepage": "https://nienow.github.io/sn-quill/demo.html",
+                    "id": 642665687,
+                    "language": "CSS",
+                    "license": "MIT",
+                    "last_commit": "2026-08-01T12:22:05Z",
+                    "open_issues": 2,
+                    "owner": "nienow",
+                    "repo": "sn-quill",
+                    "stars": 12,
+                    "topics": [
+                      "standard-notes"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TUI Markdown Editor",
+                  "description": "[Archived] - Markdown editor built on Toast UI Editor.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Toast UI Markdown Editor for Standard Notes",
+                    "homepage": null,
+                    "id": 678710407,
+                    "language": "SCSS",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2024-01-05T10:27:53Z",
+                    "open_issues": 2,
+                    "owner": "MortalHappiness",
+                    "repo": "sn-tui.editor",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                }
+              ],
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Community plugins for Standard Notes — Experimental 🧪",
-                "homepage": null,
-                "id": 508869674,
-                "language": "TypeScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-05T15:16:33Z",
-                "open_issues": 19,
-                "owner": "standardnotes",
-                "repo": "plugins",
-                "stars": 123,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
+              "node_type": "group",
+              "title": "General"
             },
             {
-              "node_type": "item",
-              "title": "Append Editor",
-              "description": "Append to your notes. Write GitHub Flavored Markdown via four different editing modes: Plain Textarea with spell check, in-line formatting provided by CodeMirror, what-you-see-is-what-you-get live formatting provided by the Rich Markdown Editor developed by Outline, and in-line syntax highlighting provided by the Monaco Editor. In addition to GFM, the Plain Textarea, CodeMirror, and Monaco modes support KaTeX, table of contents, footnotes, in-line HTML, and emoji codes. The Monaco mode also supports autocompletion, search and replace, and syntax highlighting for over 60 programming languages. The Append Editor has built-in support for printing notes and per-note font sizes, font families, and custom CSS.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Append to your notes @StandardNotes with GitHub Flavored Markdown via CodeMirror, Rich Markdown, and Monaco",
-                "homepage": "https://theodorechu.github.io/append-editor",
-                "id": 255270527,
-                "language": "JavaScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-04-12T21:12:20Z",
-                "open_issues": 44,
-                "owner": "theodorechu",
-                "repo": "append-editor",
-                "stars": 89,
-                "topics": [
-                  "codemirror",
-                  "end-to-end-encryption",
-                  "javascript",
-                  "katex",
-                  "markdown-editor",
-                  "monaco-editor",
-                  "rehype",
-                  "remark",
-                  "sn-extensions",
-                  "standardnotes",
-                  "typescript",
-                  "wysiwyg",
-                  "wysiwyg-editor"
-                ]
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Standard Notes Indent Editor",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Marp Editor",
+                  "description": "[Archived] - Presentation slides with Marp / Marpit Markdown.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Marp Editor for @StandardNotes. Create presentations with Marp and Marpit Markdown",
+                    "homepage": "http://theodorechu.github.io/marp-editor",
+                    "id": 324239468,
+                    "language": "JavaScript",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-04-12T20:51:23Z",
+                    "open_issues": 4,
+                    "owner": "theodorechu",
+                    "repo": "marp-editor",
+                    "stars": 36,
+                    "topics": [
+                      "deck",
+                      "markdown",
+                      "marp",
+                      "marpit-markdown",
+                      "presentation",
+                      "presentation-slides",
+                      "slides"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Whiteboard",
+                  "description": "Freeform drawing and sticky notes via TLDraw.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Whiteboard editor for Standard Notes based on TLDRAW",
+                    "homepage": null,
+                    "id": 555875588,
+                    "language": "SCSS",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2023-01-11T13:15:08Z",
+                    "open_issues": 7,
+                    "owner": "antonheitz",
+                    "repo": "sn-whiteboard",
+                    "stars": 35,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kanban Editor",
+                  "description": "Kanban board that stores notes as Markdown.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Standard Notes Kanban Editor",
+                    "homepage": "https://corvec.github.io/sn-kanban-editor/ext.json",
+                    "id": 336176156,
+                    "language": "TypeScript",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-08-02T18:15:18Z",
+                    "open_issues": 3,
+                    "owner": "corvec",
+                    "repo": "sn-kanban-editor",
+                    "stars": 33,
+                    "topics": [
+                      "kanban-editor",
+                      "standard-notes"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kanban Board",
+                  "description": "[Archived] - Simple Kanban board editor.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "A simple Kanban style board editor for Standard Notes ",
+                    "homepage": null,
+                    "id": 377696608,
+                    "language": "TypeScript",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2024-06-26T03:24:24Z",
+                    "open_issues": 10,
+                    "owner": "tryonlinux",
+                    "repo": "kanban-board-sn",
+                    "stars": 17,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mermaid",
+                  "description": "Diagram editor for flow, sequence, Gantt, and more.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Standard Notes Mermaid Extension",
+                    "homepage": "https://nienow.github.io/sn-mermaid/demo.html",
+                    "id": 658821313,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-08-01T12:23:57Z",
+                    "open_issues": 2,
+                    "owner": "nienow",
+                    "repo": "sn-mermaid",
+                    "stars": 17,
+                    "topics": [
+                      "standard-notes"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Excalidraw",
+                  "description": "Sketching editor based on Excalidraw.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Standard Notes Extension that uses the Excalidraw Editor",
+                    "homepage": "https://nienow.github.io/sn-excalidraw/demo.html",
+                    "id": 621340536,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-08-01T12:21:48Z",
+                    "open_issues": 3,
+                    "owner": "nienow",
+                    "repo": "sn-excalidraw",
+                    "stars": 16,
+                    "topics": [
+                      "standard-notes"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                }
+              ],
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A simple text editor that makes it easy to write and read nested notes in https://standardnotes.org/",
-                "homepage": null,
-                "id": 231703126,
-                "language": "JavaScript",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-01-10T21:00:02Z",
-                "open_issues": 4,
-                "owner": "MaxLap",
-                "repo": "standard-notes-indent-editor",
-                "stars": 48,
-                "topics": [
-                  "code-mirror",
-                  "standard-notes"
-                ]
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
+              "node_type": "group",
+              "title": "Boards and diagrams"
             },
             {
-              "node_type": "item",
-              "title": "Org mode for Standard Notes",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Music Editor",
+                  "description": "[Archived] - Write music with VexTab and VexFlow.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Music Editor for @standardnotes. Write music with VexTab and VexFlow",
+                    "homepage": "https://theodorechu.github.io/music-editor/",
+                    "id": 316057044,
+                    "language": "TypeScript",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-04-12T20:53:05Z",
+                    "open_issues": 0,
+                    "owner": "theodorechu",
+                    "repo": "music-editor",
+                    "stars": 11,
+                    "topics": [
+                      "music",
+                      "music-editor",
+                      "sn-extensions",
+                      "standardnotes",
+                      "vexflow",
+                      "vextab"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Home Inventory",
+                  "description": "Catalog home inventory securely.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "An extension editor for Standard Notes to catalog home inventory in a solid and security way ",
+                    "homepage": null,
+                    "id": 361468313,
+                    "language": "JavaScript",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2024-06-26T03:24:03Z",
+                    "open_issues": 6,
+                    "owner": "tryonlinux",
+                    "repo": "Home-Inventory-sn",
+                    "stars": 11,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Savings Goal Tracker",
+                  "description": "Prioritize and track savings goals.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "A savings goal editor for Standard Notes",
+                    "homepage": null,
+                    "id": 376176578,
+                    "language": "TypeScript",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2024-06-26T03:23:42Z",
+                    "open_issues": 0,
+                    "owner": "tryonlinux",
+                    "repo": "savings-goals-editor-sn",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Coin Inventory",
+                  "description": "Catalog coin collections.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Coin Inventory tracking Editor for Standard Notes",
+                    "homepage": null,
+                    "id": 371240887,
+                    "language": "JavaScript",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2024-06-26T03:24:14Z",
+                    "open_issues": 4,
+                    "owner": "tryonlinux",
+                    "repo": "Coin-Inventory-sn",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "IronCalc",
+                  "description": "Spreadsheet editor powered by IronCalc.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Spreadsheet editor plugin for Standard Notes, powered by IronCalc",
+                    "homepage": null,
+                    "id": 1104407764,
+                    "language": "TypeScript",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2026-08-28T02:06:56Z",
+                    "open_issues": 0,
+                    "owner": "iamanaws",
+                    "repo": "sn-ironcalc",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-09-24T05:29:34.614Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Precious Metals",
+                  "description": "Track precious metal holdings and values.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "A tracker of what precious metals you have and their values. This is an editor for Standard Notes. ",
+                    "homepage": null,
+                    "id": 371243161,
+                    "language": "JavaScript",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2024-06-26T03:23:52Z",
+                    "open_issues": 8,
+                    "owner": "tryonlinux",
+                    "repo": "Precious-Metals-Inventory-sn",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                }
+              ],
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Org mode for Standard Notes! Demo: https://ryanpcmcquen.org/standardnotes_org_mode_editor/",
-                "homepage": null,
-                "id": 115305913,
-                "language": "JavaScript",
-                "license": "MPL-2.0",
-                "last_commit": "2021-10-12T06:55:23Z",
-                "open_issues": 1,
-                "owner": "ryanpcmcquen",
-                "repo": "standardnotes_org_mode_editor",
-                "stars": 39,
-                "topics": [
-                  "hacktoberfest",
-                  "org-mode",
-                  "standardnotes"
-                ]
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Marp Editor",
-              "description": "Create presentation slides with Marp and Marpit Markdown.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Marp Editor for @StandardNotes. Create presentations with Marp and Marpit Markdown",
-                "homepage": "http://theodorechu.github.io/marp-editor",
-                "id": 324239468,
-                "language": "JavaScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-04-12T20:51:23Z",
-                "open_issues": 4,
-                "owner": "theodorechu",
-                "repo": "marp-editor",
-                "stars": 36,
-                "topics": [
-                  "deck",
-                  "markdown",
-                  "marp",
-                  "marpit-markdown",
-                  "presentation",
-                  "presentation-slides",
-                  "slides"
-                ]
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Whiteboard",
-              "description": "This editor utilizes TLDraw to enable you to freely draw and write, add sticky notes and shapes. Works on Desktop and Mobile.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Whiteboard editor for Standard Notes based on TLDRAW",
-                "homepage": null,
-                "id": 555875588,
-                "language": "SCSS",
-                "license": "AGPL-3.0",
-                "last_commit": "2023-01-11T13:15:08Z",
-                "open_issues": 7,
-                "owner": "antonheitz",
-                "repo": "sn-whiteboard",
-                "stars": 35,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Kanban Editor",
-              "description": "Kanban Editor for Standard Notes. It integrates rcdexta/react-trello, a Kanban board editor, and saves your notes in Markdown so that you can easily read them, export them to Listed, etc.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Standard Notes Kanban Editor",
-                "homepage": "https://corvec.github.io/sn-kanban-editor/ext.json",
-                "id": 336176156,
-                "language": "TypeScript",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-08-02T18:15:18Z",
-                "open_issues": 3,
-                "owner": "corvec",
-                "repo": "sn-kanban-editor",
-                "stars": 33,
-                "topics": [
-                  "kanban-editor",
-                  "standard-notes"
-                ]
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Cosmos",
-              "description": "Split a note into multiple areas. Each area can use a different editor. Install new editors more easily.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Standard Notes Extension that allows splitting a note into multiple areas",
-                "homepage": "https://nienow.github.io/cosmos/demo.html",
-                "id": 618977320,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-08-21T11:55:22Z",
-                "open_issues": 0,
-                "owner": "nienow",
-                "repo": "cosmos",
-                "stars": 19,
-                "topics": [
-                  "extension",
-                  "plugin",
-                  "standard-notes"
-                ]
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Kanban Board",
-              "description": "[Archived] - A simple Kanban style board editor for Standard Notes.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "A simple Kanban style board editor for Standard Notes ",
-                "homepage": null,
-                "id": 377696608,
-                "language": "TypeScript",
-                "license": "AGPL-3.0",
-                "last_commit": "2024-06-26T03:24:24Z",
-                "open_issues": 10,
-                "owner": "tryonlinux",
-                "repo": "kanban-board-sn",
-                "stars": 17,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Mermaid",
-              "description": "A diagram editor. Create Flow, Sequence, Class, State, Gantt, Pie, ER, User Journey, Git, Mindmap, or Quadrant diagrams.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Standard Notes Mermaid Extension",
-                "homepage": "https://nienow.github.io/sn-mermaid/demo.html",
-                "id": 658821313,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-08-01T12:23:57Z",
-                "open_issues": 2,
-                "owner": "nienow",
-                "repo": "sn-mermaid",
-                "stars": 17,
-                "topics": [
-                  "standard-notes"
-                ]
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Excalidraw",
-              "description": "A drawing/sketching editor that uses the Excalidraw library.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Standard Notes Extension that uses the Excalidraw Editor",
-                "homepage": "https://nienow.github.io/sn-excalidraw/demo.html",
-                "id": 621340536,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-08-01T12:21:48Z",
-                "open_issues": 3,
-                "owner": "nienow",
-                "repo": "sn-excalidraw",
-                "stars": 16,
-                "topics": [
-                  "standard-notes"
-                ]
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Quill",
-              "description": "A rich text editor that uses the Quill library.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Standard Notes Extension that uses the Quill Rich Text Editor",
-                "homepage": "https://nienow.github.io/sn-quill/demo.html",
-                "id": 642665687,
-                "language": "CSS",
-                "license": "MIT",
-                "last_commit": "2026-08-01T12:22:05Z",
-                "open_issues": 2,
-                "owner": "nienow",
-                "repo": "sn-quill",
-                "stars": 12,
-                "topics": [
-                  "standard-notes"
-                ]
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Music Editor",
-              "description": "Write music with VexTab and VexFlow.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Music Editor for @standardnotes. Write music with VexTab and VexFlow",
-                "homepage": "https://theodorechu.github.io/music-editor/",
-                "id": 316057044,
-                "language": "TypeScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-04-12T20:53:05Z",
-                "open_issues": 0,
-                "owner": "theodorechu",
-                "repo": "music-editor",
-                "stars": 11,
-                "topics": [
-                  "music",
-                  "music-editor",
-                  "sn-extensions",
-                  "standardnotes",
-                  "vexflow",
-                  "vextab"
-                ]
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Home Inventory",
-              "description": "An extension editor for Standard Notes to catalog home inventory (great for insurance purposes) in a solid and secure way.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "An extension editor for Standard Notes to catalog home inventory in a solid and security way ",
-                "homepage": null,
-                "id": 361468313,
-                "language": "JavaScript",
-                "license": "AGPL-3.0",
-                "last_commit": "2024-06-26T03:24:03Z",
-                "open_issues": 6,
-                "owner": "tryonlinux",
-                "repo": "Home-Inventory-sn",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Savings Goal Tracker",
-              "description": "This is an editor for Standard Notes that allows you to track your savings goals within the app. You can add your goals and prioritize them by dragging and dropping them in the order you wish.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "A savings goal editor for Standard Notes",
-                "homepage": null,
-                "id": 376176578,
-                "language": "TypeScript",
-                "license": "AGPL-3.0",
-                "last_commit": "2024-06-26T03:23:42Z",
-                "open_issues": 0,
-                "owner": "tryonlinux",
-                "repo": "savings-goals-editor-sn",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Coin Inventory",
-              "description": "An extension editor for Standard Notes to catalog coin inventory in a solid and secure way. Numismatists rejoice!",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Coin Inventory tracking Editor for Standard Notes",
-                "homepage": null,
-                "id": 371240887,
-                "language": "JavaScript",
-                "license": "AGPL-3.0",
-                "last_commit": "2024-06-26T03:24:14Z",
-                "open_issues": 4,
-                "owner": "tryonlinux",
-                "repo": "Coin-Inventory-sn",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Tui Markdown Editor",
-              "description": "A markdown editor using Toast UI Markdown Editor.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Toast UI Markdown Editor for Standard Notes",
-                "homepage": null,
-                "id": 678710407,
-                "language": "SCSS",
-                "license": "AGPL-3.0",
-                "last_commit": "2024-01-05T10:27:53Z",
-                "open_issues": 2,
-                "owner": "MortalHappiness",
-                "repo": "sn-tui.editor",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Precious Metals",
-              "description": "An extension editor for Standard Notes to keep track of what precious metals you have and their values.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "A tracker of what precious metals you have and their values. This is an editor for Standard Notes. ",
-                "homepage": null,
-                "id": 371243161,
-                "language": "JavaScript",
-                "license": "AGPL-3.0",
-                "last_commit": "2024-06-26T03:23:52Z",
-                "open_issues": 8,
-                "owner": "tryonlinux",
-                "repo": "Precious-Metals-Inventory-sn",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
+              "node_type": "group",
+              "title": "Specialty"
             }
           ],
-          "description": "A comparison of selected text editors can be found here.",
+          "description": "Compare selected editors in the editor comparison.",
           "node_type": "group",
           "title": "Editors"
         },
@@ -938,7 +1110,7 @@
             {
               "node_type": "item",
               "title": "Pomodoro Timer",
-              "description": "Pomodoro timer for Standard Notes in the Editor Bottom Bar",
+              "description": "Pomodoro timer in the editor bottom bar.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -966,7 +1138,7 @@
             {
               "node_type": "item",
               "title": "SF Pro Text",
-              "description": null,
+              "description": "Apple SF Pro Text font package.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -987,7 +1159,7 @@
             {
               "node_type": "item",
               "title": "JetBrains Mono",
-              "description": null,
+              "description": "JetBrains Mono font package.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1027,29 +1199,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Standard Notes Clipper",
-              "description": "[Archived] - A browser add-on (Firefox and Chrome) that allows you to clip web pages to your Standard Notes account. 🔻Please note this reported issue",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "A browser add-on (Firefox and Chrome) that allows you to clip web pages to your Standard Notes account.",
-                "homepage": null,
-                "id": 211496559,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2021-05-06T16:51:16Z",
-                "open_issues": 10,
-                "owner": "johnjones4",
-                "repo": "Standard-Notes-Clipper",
-                "stars": 129,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
               "title": "Page Link & Title → Note",
-              "description": "[Unmaintained] - Takes the title and link of a web page and creates a note using the same title and inserts the link into the body.",
+              "description": "[Unmaintained] - Create a note from the current page title and URL.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1076,63 +1227,29 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Extensions Repository Builder",
-              "description": "[Archived] - Host Standard Notes extensions on your own server.",
+              "title": "Open Extended",
+              "description": "Community-hosted catalog of installable extensions.",
               "children": [],
               "repo_info": {
-                "archived": true,
-                "description": "Self-host standard notes extensions repository.",
-                "homepage": null,
-                "id": 234211183,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-02-14T16:13:29Z",
-                "open_issues": 0,
-                "owner": "gyaneesh",
-                "repo": "standardnotes-extensions",
-                "stars": 176,
-                "topics": [
-                  "sn-extensions",
-                  "standard-notes",
-                  "standardnotes"
-                ]
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "standardnotes-fs",
-              "description": "[Archived] - Mount your Standard Notes account as a filesystem and edit your notes as plain text files. Note: No longer functional. (SN version 003 only)",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Mount your Standard Notes as a filesystem.",
-                "homepage": null,
-                "id": 107294098,
+                "archived": false,
+                "description": "A Free Open Source Standard Notes Extensions Repository Hosted via Github Pages",
+                "homepage": "https://kylejbrk.github.io/standard-notes-open-extended/",
+                "id": 262143047,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2021-12-15T21:32:28Z",
+                "last_commit": "2022-11-04T02:11:17Z",
                 "open_issues": 2,
-                "owner": "tanner37",
-                "repo": "standardnotes-fs",
-                "stars": 148,
-                "topics": [
-                  "encrypted",
-                  "fuse",
-                  "fusepy",
-                  "notes",
-                  "secure",
-                  "standard-file",
-                  "standard-notes",
-                  "standardnotes"
-                ]
+                "owner": "kylejbrk",
+                "repo": "standard-notes-open-extended",
+                "stars": 106,
+                "topics": []
               },
-              "first_seen": "2026-08-28T12:15:58.908Z"
+              "first_seen": "2026-09-24T05:29:34.614Z"
             },
             {
               "node_type": "item",
               "title": "sn-cli",
-              "description": "Manage notes, tags, and other account operations",
+              "description": "Manage notes, tags, and account operations from the terminal.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1159,7 +1276,7 @@
             {
               "node_type": "item",
               "title": "sn-dotfiles",
-              "description": "Sync and manage dotfiles using Standard Notes",
+              "description": "Sync and manage dotfiles with Standard Notes.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1168,7 +1285,7 @@
                 "id": 195650676,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-21T17:36:13Z",
+                "last_commit": "2026-09-23T13:44:29Z",
                 "open_issues": 0,
                 "owner": "jonhadfield",
                 "repo": "sn-dotfiles",
@@ -1181,6 +1298,69 @@
                 ]
               },
               "first_seen": "2026-08-28T12:15:58.908Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Extensions Server",
+              "description": "Auto-updating Docker/Go host for extensions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "auto updating extensions for your standardnotes server",
+                "homepage": null,
+                "id": 282046763,
+                "language": "Go",
+                "license": null,
+                "last_commit": "2023-02-25T05:23:23Z",
+                "open_issues": 3,
+                "owner": "sentriz",
+                "repo": "standardnotes-extensions",
+                "stars": 20,
+                "topics": [
+                  "self-hosted",
+                  "standardnotes"
+                ]
+              },
+              "first_seen": "2026-09-24T05:29:34.614Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MCP Standard Notes",
+              "description": "MCP server with end-to-end encryption.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCP server for Standard Notes with end-to-end encryption (protocol 004). Read/write notes from Claude while keeping E2EE intact.",
+                "homepage": null,
+                "id": 1211862306,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-08T08:07:49Z",
+                "open_issues": 7,
+                "owner": "lozit",
+                "repo": "mcp-standardnotes",
+                "stars": 9,
+                "topics": [
+                  "anthropic",
+                  "claude",
+                  "claude-code",
+                  "claude-desktop",
+                  "e2ee",
+                  "e2ee-encryption",
+                  "encryption",
+                  "end-to-end-encryption",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "model-context-protocol-server",
+                  "note-taking",
+                  "notes",
+                  "privacy",
+                  "standard-notes",
+                  "standardnotes"
+                ]
+              },
+              "first_seen": "2026-09-24T05:29:34.614Z"
             }
           ],
           "description": null,
@@ -1191,8 +1371,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Yarle - The ultimate converter of Evernote notes to Markdown",
-              "description": "A fully configurable cross-platform desktop application to convert your Evernote notebooks (enex files) to Markdown format.",
+              "title": "Yarle",
+              "description": "Configurable Evernote → Markdown desktop converter.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1234,7 +1414,7 @@
             {
               "node_type": "item",
               "title": "evernote2md",
-              "description": "Evernote2md is a CLI tool to convert Evernote notes exported in *.enex format to a directory with markdown files.",
+              "description": "Convert Evernote exports to Markdown files.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1259,8 +1439,50 @@
             },
             {
               "node_type": "item",
-              "title": "Standard Notes Folder Export CLI",
-              "description": "[Archived] - Simple CLI script to convert a decrypted Standard Notes Backup/Export into a structure of .",
+              "title": "Jimmy",
+              "description": "Convert notes from many apps (including Standard Notes) to Markdown.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Convert your notes to Markdown",
+                "homepage": "https://marph91.github.io/jimmy/",
+                "id": 780390631,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-13T15:30:48Z",
+                "open_issues": 14,
+                "owner": "marph91",
+                "repo": "jimmy",
+                "stars": 532,
+                "topics": [
+                  "bear",
+                  "cherrytree",
+                  "google-keep",
+                  "joplin",
+                  "markdown",
+                  "markdown-converter",
+                  "microsoft-office",
+                  "notion",
+                  "obsidian",
+                  "onenote",
+                  "pandoc",
+                  "signal",
+                  "simplenote",
+                  "standard-notes",
+                  "standardnotes",
+                  "synology",
+                  "telegram",
+                  "textbundle",
+                  "tiddlywiki",
+                  "zoho"
+                ]
+              },
+              "first_seen": "2026-09-24T05:29:34.614Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Folder Export CLI",
+              "description": "[Archived] - Turn a decrypted backup into folders.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1286,7 +1508,7 @@
             {
               "node_type": "item",
               "title": "onestandard",
-              "description": "Convert notebooks from OneNote into Standard Notes format.",
+              "description": "Convert OneNote notebooks to Standard Notes format.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1306,8 +1528,8 @@
             },
             {
               "node_type": "item",
-              "title": "Standard Notes export to folder",
-              "description": "CLI tool to extract info from the Standard Notes decrypted export and transform it into folder based tags and notes. After the tool runs the tags will be folders and each note will be inside the respective folder.",
+              "title": "Export to Folder",
+              "description": "Extract a decrypted export into tag folders and note files.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1334,8 +1556,8 @@
             },
             {
               "node_type": "item",
-              "title": "Day One => Standard Notes Importer",
-              "description": "Day One JSON Export Importer for Standard Notes",
+              "title": "Day One Importer",
+              "description": "Import Day One JSON exports.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1355,8 +1577,8 @@
             },
             {
               "node_type": "item",
-              "title": "Google Keep™ to StandardNotes Converter",
-              "description": "[Archived] - Convert Google Keep Takeout archive into Standardnotes archive",
+              "title": "Google Keep Converter",
+              "description": "[Archived] - Convert Google Keep Takeout archives.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1377,7 +1599,7 @@
             {
               "node_type": "item",
               "title": "simplenote2standardnote",
-              "description": "[Archived] - Port a SimpleNote backup to a StandardNote one, keeping dates and tags",
+              "description": "[Archived] - Port Simplenote backups with dates and tags.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1398,7 +1620,7 @@
             {
               "node_type": "item",
               "title": "notexfr",
-              "description": "notexfr is a tool to convert and adapt data for transfer between note-taking services",
+              "description": "Convert and adapt data between note-taking services.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1421,8 +1643,8 @@
             },
             {
               "node_type": "item",
-              "title": "BB10 Remember → Standard Notes plaintext(/super note) import format Converter",
-              "description": "A simple python program to convert BlackBerry10 Remember Notes backup(backed-up using Runisoft Ultimate Backup on BB10) to Standard Notes importable format with preserved formatting, attachments and timestamps.",
+              "title": "BB10 Remember Converter",
+              "description": "Convert BlackBerry 10 Remember backups to Standard Notes import format.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1453,8 +1675,29 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Official Sync Server",
+          "description": "Official self-hostable sync server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Server ecosystem for Standard Notes; fully self-hostable.",
+            "homepage": "https://standardnotes.com/help/self-hosting/docker",
+            "id": 504488350,
+            "language": "TypeScript",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-21T13:29:19Z",
+            "open_issues": 71,
+            "owner": "standardnotes",
+            "repo": "server",
+            "stars": 480,
+            "topics": []
+          },
+          "first_seen": "2026-09-24T05:29:34.614Z"
+        },
+        {
+          "node_type": "item",
           "title": "Yet Another Standardfile",
-          "description": "A Standard Notes Server implementation written in Go",
+          "description": "Standard Notes–compatible server written in Go.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1480,101 +1723,13 @@
             ]
           },
           "first_seen": "2026-08-28T12:15:58.908Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Standard Notes & Docker",
-          "description": "Dockerization of Standard File server. Used for running your own Standard Notes server",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Dockerization of Standard File server. Used for running your own Standard Notes server",
-            "homepage": null,
-            "id": 163534638,
-            "language": "Dockerfile",
-            "license": "MIT",
-            "last_commit": "2019-10-10T19:36:13Z",
-            "open_issues": 1,
-            "owner": "mdouchement",
-            "repo": "standardnotes",
-            "stars": 12,
-            "topics": [
-              "docker",
-              "docker-compose",
-              "standard-notes"
-            ]
-          },
-          "first_seen": "2026-08-28T12:15:58.908Z"
         }
       ],
       "title": "Servers"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Marcokai Theme",
-              "description": "A dark theme with modified monokai syntax highlighting",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A listed.to dark theme",
-                "homepage": null,
-                "id": 289699243,
-                "language": "CSS",
-                "license": "NOASSERTION",
-                "last_commit": "2021-03-16T01:43:45Z",
-                "open_issues": 0,
-                "owner": "marcoceppi",
-                "repo": "listed-marcokai",
-                "stars": 5,
-                "topics": [
-                  "listedto",
-                  "standard-notes"
-                ]
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Dracula Styled Theme",
-              "description": "A Dracula Styled theme for your listed blog.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Dracula theme for Listed.to",
-                "homepage": null,
-                "id": 198126679,
-                "language": "CSS",
-                "license": "MIT",
-                "last_commit": "2020-02-24T01:59:19Z",
-                "open_issues": 0,
-                "owner": "cameronldn",
-                "repo": "sn-listed-theme-dracula",
-                "stars": 4,
-                "topics": [
-                  "dracula",
-                  "listedto",
-                  "standardnotes",
-                  "theme"
-                ]
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Themes"
-        }
-      ],
-      "title": "Listed"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T05:14:48.287Z",
+    "last_updated": "2026-09-24T05:29:34.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
@@ -1582,8 +1737,8 @@
       "id": 233403603,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-22T20:24:07Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-23T11:24:40Z",
+      "open_issues": 0,
       "owner": "jonhadfield",
       "repo": "awesome-standard-notes",
       "stars": 956,
@@ -1593,7 +1748,7 @@
         "standard-notes"
       ]
     },
-    "original_repository_sha": "d0364f3c344029159e4f0e22c3ffda21585d0ce4",
+    "original_repository_sha": "697fe81b7c00021b7731408cc3888293a8d872ab",
     "enhanced_repository": "enhansome/enhansome-standard-notes",
     "enhanced_repository_description": null,
     "title": "Awesome Standard Notes with stars"
