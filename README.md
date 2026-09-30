@@ -121,12 +121,12 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 * [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 94 | 🐛 0 | 🌐 Go | 📅 2026-09-27 - Manage notes, tags, and account operations from the terminal.
 * [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2026-09-27 - Sync and manage dotfiles with Standard Notes.
 * [Extensions Server](https://github.com/sentriz/standardnotes-extensions) ⭐ 20 | 🐛 3 | 🌐 Go | 📅 2023-02-25 - Auto-updating Docker/Go host for extensions.
-* [MCP Standard Notes](https://github.com/lozit/mcp-standardnotes) ⭐ 9 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08 - MCP server with end-to-end encryption.
+* [MCP Standard Notes](https://github.com/lozit/mcp-standardnotes) ⭐ 10 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08 - MCP server with end-to-end encryption.
 
 ### Importers, Exporters, and Converters
 
 * [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,805 | 🐛 91 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
-* [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,110 | 🐛 17 | 🌐 Go | 📅 2026-09-25 - Convert Evernote `.enex` exports to Markdown files.
+* [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,111 | 🐛 17 | 🌐 Go | 📅 2026-09-25 - Convert Evernote `.enex` exports to Markdown files.
 * [Jimmy](https://github.com/marph91/jimmy) ⭐ 533 | 🐛 14 | 🌐 Python | 📅 2026-09-13 - Convert notes from many apps (including Standard Notes) to Markdown.
 * [Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Turn a decrypted backup into `<tag>/<note>.<ext>` folders.
 * [onestandard](https://github.com/oxhacks/onestandard) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - Convert OneNote notebooks to Standard Notes format.
@@ -151,7 +151,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,638 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-24 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,638 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-30 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

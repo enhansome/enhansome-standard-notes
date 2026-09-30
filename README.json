@@ -1339,7 +1339,7 @@
                 "open_issues": 7,
                 "owner": "lozit",
                 "repo": "mcp-standardnotes",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "anthropic",
                   "claude",
@@ -1427,7 +1427,7 @@
                 "open_issues": 17,
                 "owner": "wormi4ok",
                 "repo": "evernote2md",
-                "stars": 1110,
+                "stars": 1111,
                 "topics": [
                   "converter",
                   "evernote",
@@ -1729,7 +1729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T06:16:05.135Z",
+    "last_updated": "2026-09-30T06:00:43.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
