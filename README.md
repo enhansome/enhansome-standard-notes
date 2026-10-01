@@ -45,7 +45,7 @@ A curated list of tools and information relating to [Standard Notes](https://sta
 * [Pure Black](https://github.com/christianhans/sn-pure-black-theme) ⭐ 32 | 🐛 1 | 🌐 SCSS | 📅 2024-06-12 **\[Unmaintained]** - OLED-friendly pure black theme.
 * [Dracula](https://github.com/dracula/standard-notes) ⭐ 24 | 🐛 1 | 🌐 SCSS | 📅 2022-07-30 - Dark theme based on the Dracula color scheme.
 * [Muted Dark](https://github.com/ntran/sn-theme-muteddark) ⭐ 19 | 🐛 2 | 🌐 SCSS | 📅 2022-12-06 - Dark theme with muted, non-vivid colors.
-* [Callisto](https://github.com/lissy93/callisto-theme-standard-notes) ⭐ 16 | 🐛 3 | 🌐 CSS | 📅 2026-09-13 - Dusty navy and teal palette.
+* [Callisto](https://github.com/lissy93/callisto-theme-standard-notes) ⚠️ Archived - Dusty navy and teal palette.
 * [VS Code Dark](https://github.com/marcolaux/sn-theme-vscode) ⭐ 14 | 🐛 3 | 🌐 CSS | 📅 2026-03-26 - Inspired by the VS Code Dark theme.
 * [Markdown Monospace](https://github.com/DanielNetoP/markdown-monospace) ⚠️ Archived **\[Archived]** - Monospace font overlay for markdown editors.
 * [Writer](https://github.com/eenpadvinder/standardnotes-writer) ⭐ 11 | 🐛 1 | 📅 2020-08-21 - Distraction-free writing look with word count styling.
@@ -57,7 +57,7 @@ A curated list of tools and information relating to [Standard Notes](https://sta
 * [Serendipity Dark](https://github.com/luisstd/sn-theme-serendipity-dark) ⭐ 3 | 🐛 0 | 🌐 SCSS | 📅 2023-12-17 - Dark theme based on Serendipity.
 * [Subtle Light](https://github.com/Parkertg/sn-theme-subtle-light) ⭐ 2 | 🐛 0 | 📅 2023-12-28 - Low-contrast light theme.
 * [Tangerine](https://github.com/shompoe/sn-orange) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2023-03-23 - Orange-accented theme (updated for SN 3.9.15+).
-* [Dark Sense](https://github.com/xzrelay/sn-theme-dark-sense) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2026-03-09 - Dark theme tuned for low-light writing.
+* [Dark Sense](https://github.com/xzrelay/sn-theme-dark-sense) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2026-09-30 - Dark theme tuned for low-light writing.
 * [Subtle Dark](https://github.com/Parkertg/sn-theme-subtle-dark) ⭐ 1 | 🐛 0 | 🌐 SCSS | 📅 2023-12-28 - Low-contrast dark theme.
 * [Overcast](https://github.com/nienow/sn-theme-overcast) ⭐ 1 | 🐛 1 | 🌐 CSS | 📅 2025-12-08 - Simple grayscale theme.
 * [Moss](https://github.com/TheMany172/SN-Moss-Theme) ⭐ 1 | 🐛 0 | 🌐 SCSS | 📅 2024-10-25 - Mossy green with orange accents.
@@ -121,13 +121,13 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 * [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 94 | 🐛 0 | 🌐 Go | 📅 2026-09-27 - Manage notes, tags, and account operations from the terminal.
 * [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2026-09-27 - Sync and manage dotfiles with Standard Notes.
 * [Extensions Server](https://github.com/sentriz/standardnotes-extensions) ⭐ 20 | 🐛 3 | 🌐 Go | 📅 2023-02-25 - Auto-updating Docker/Go host for extensions.
-* [MCP Standard Notes](https://github.com/lozit/mcp-standardnotes) ⭐ 10 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08 - MCP server with end-to-end encryption.
+* [MCP Standard Notes](https://github.com/lozit/mcp-standardnotes) ⭐ 11 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08 - MCP server with end-to-end encryption.
 
 ### Importers, Exporters, and Converters
 
-* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,805 | 🐛 91 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
-* [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,111 | 🐛 17 | 🌐 Go | 📅 2026-09-25 - Convert Evernote `.enex` exports to Markdown files.
-* [Jimmy](https://github.com/marph91/jimmy) ⭐ 533 | 🐛 14 | 🌐 Python | 📅 2026-09-13 - Convert notes from many apps (including Standard Notes) to Markdown.
+* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,805 | 🐛 92 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
+* [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,112 | 🐛 17 | 🌐 Go | 📅 2026-09-25 - Convert Evernote `.enex` exports to Markdown files.
+* [Jimmy](https://github.com/marph91/jimmy) ⭐ 533 | 🐛 14 | 🌐 Python | 📅 2026-09-30 - Convert notes from many apps (including Standard Notes) to Markdown.
 * [Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Turn a decrypted backup into `<tag>/<note>.<ext>` folders.
 * [onestandard](https://github.com/oxhacks/onestandard) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - Convert OneNote notebooks to Standard Notes format.
 * [Export to Folder](https://github.com/danielnetop/sn-export-to-folder) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2023-11-25 - Extract a decrypted export into tag folders and note files.
@@ -151,7 +151,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,638 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-30 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,637 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-30 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
