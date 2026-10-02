@@ -649,7 +649,7 @@
                     "open_issues": 19,
                     "owner": "standardnotes",
                     "repo": "plugins",
-                    "stars": 124,
+                    "stars": 126,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:15:58.908Z"
@@ -1385,7 +1385,7 @@
                 "open_issues": 92,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1805,
+                "stars": 1806,
                 "topics": [
                   "converter",
                   "desktop-application",
@@ -1427,7 +1427,7 @@
                 "open_issues": 17,
                 "owner": "wormi4ok",
                 "repo": "evernote2md",
-                "stars": 1112,
+                "stars": 1113,
                 "topics": [
                   "converter",
                   "evernote",
@@ -1453,7 +1453,7 @@
                 "open_issues": 14,
                 "owner": "marph91",
                 "repo": "jimmy",
-                "stars": 533,
+                "stars": 534,
                 "topics": [
                   "bear",
                   "cherrytree",
@@ -1729,7 +1729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T06:35:39.323Z",
+    "last_updated": "2026-10-02T06:16:53.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
