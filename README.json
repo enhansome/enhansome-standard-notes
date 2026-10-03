@@ -625,7 +625,7 @@
                     "open_issues": 18,
                     "owner": "arturolinares",
                     "repo": "sn-rme",
-                    "stars": 147,
+                    "stars": 146,
                     "topics": [
                       "sn-extensions",
                       "standardnotes"
@@ -1262,7 +1262,7 @@
                 "open_issues": 0,
                 "owner": "jonhadfield",
                 "repo": "sn-cli",
-                "stars": 94,
+                "stars": 95,
                 "topics": [
                   "cli",
                   "notes",
@@ -1729,7 +1729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:16:53.051Z",
+    "last_updated": "2026-10-03T05:10:16.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
@@ -1741,7 +1741,7 @@
       "open_issues": 0,
       "owner": "jonhadfield",
       "repo": "awesome-standard-notes",
-      "stars": 956,
+      "stars": 953,
       "topics": [
         "awesome",
         "awesome-list",
