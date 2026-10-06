@@ -46,7 +46,6 @@ A curated list of tools and information relating to [Standard Notes](https://sta
 * [Dracula](https://github.com/dracula/standard-notes) ⭐ 24 | 🐛 1 | 🌐 SCSS | 📅 2022-07-30 - Dark theme based on the Dracula color scheme.
 * [Muted Dark](https://github.com/ntran/sn-theme-muteddark) ⭐ 19 | 🐛 2 | 🌐 SCSS | 📅 2022-12-06 - Dark theme with muted, non-vivid colors.
 * [Callisto](https://github.com/lissy93/callisto-theme-standard-notes) ⚠️ Archived - Dusty navy and teal palette.
-* [VS Code Dark](https://github.com/marcolaux/sn-theme-vscode) ⭐ 14 | 🐛 3 | 🌐 CSS | 📅 2026-03-26 - Inspired by the VS Code Dark theme.
 * [Markdown Monospace](https://github.com/DanielNetoP/markdown-monospace) ⚠️ Archived **\[Archived]** - Monospace font overlay for markdown editors.
 * [Writer](https://github.com/eenpadvinder/standardnotes-writer) ⭐ 11 | 🐛 1 | 📅 2020-08-21 - Distraction-free writing look with word count styling.
 * [One Dark Darker](https://github.com/eenpadvinder/standardnotes-theme-one-darker) ⭐ 10 | 🐛 1 | 📅 2020-08-21 - Based on One Dark Darker for VS Code, with colored headings.
@@ -64,6 +63,7 @@ A curated list of tools and information relating to [Standard Notes](https://sta
 * [Horizon Light](https://github.com/luisstd/sn-theme-horizon-light) ⭐ 0 | 🐛 0 | 🌐 SCSS | 📅 2022-03-14 - Light variant of the Horizon VS Code theme.
 * [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) ⭐ 0 | 🐛 0 | 📅 2021-02-23 - Light counterpart to One Dark Darker.
 * [Catppuccin](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30 - Catppuccin flavors: [Mocha](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Latte](https://github.com/JoeC-Dev/SN-catppuccin-latte) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Frappe](https://github.com/JoeC-Dev/SN-catppuccin-frappe) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Macchiato](https://github.com/JoeC-Dev/SN-catppuccin-macchiato) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30.
+* [VS Code Dark](https://github.com/marcolaux/sn-theme-vscode) - Inspired by the VS Code Dark theme.
 
 ### Editors
 
@@ -127,7 +127,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 * [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,806 | 🐛 92 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
 * [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,112 | 🐛 17 | 🌐 Go | 📅 2026-09-25 - Convert Evernote `.enex` exports to Markdown files.
-* [Jimmy](https://github.com/marph91/jimmy) ⭐ 534 | 🐛 14 | 🌐 Python | 📅 2026-09-30 - Convert notes from many apps (including Standard Notes) to Markdown.
+* [Jimmy](https://github.com/marph91/jimmy) ⭐ 535 | 🐛 14 | 🌐 Python | 📅 2026-09-30 - Convert notes from many apps (including Standard Notes) to Markdown.
 * [Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Turn a decrypted backup into `<tag>/<note>.<ext>` folders.
 * [onestandard](https://github.com/oxhacks/onestandard) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - Convert OneNote notebooks to Standard Notes format.
 * [Export to Folder](https://github.com/danielnetop/sn-export-to-folder) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2023-11-25 - Extract a decrypted export into tag folders and note files.
@@ -146,12 +146,12 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Servers
 
-* [Official Sync Server](https://github.com/standardnotes/server) ⭐ 473 | 🐛 71 | 🌐 TypeScript | 📅 2026-09-21 - Official self-hostable sync server.
+* [Official Sync Server](https://github.com/standardnotes/server) ⭐ 473 | 🐛 71 | 🌐 TypeScript | 📅 2026-10-05 - Official self-hostable sync server.
 * [Yet Another Standardfile](https://github.com/mdouchement/standardfile) ⭐ 83 | 🐛 10 | 🌐 Go | 📅 2026-05-30 - Standard Notes–compatible server written in Go.
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,641 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-30 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,642 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-30 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

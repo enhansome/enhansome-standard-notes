@@ -182,27 +182,6 @@
             },
             {
               "node_type": "item",
-              "title": "VS Code Dark",
-              "description": "Inspired by the VS Code Dark theme.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 232075174,
-                "language": "CSS",
-                "license": "GPL-3.0",
-                "last_commit": "2026-03-26T00:05:55Z",
-                "open_issues": 3,
-                "owner": "marcolaux",
-                "repo": "sn-theme-vscode",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:15:58.908Z"
-            },
-            {
-              "node_type": "item",
               "title": "Markdown Monospace",
               "description": "[Archived] - Monospace font overlay for markdown editors.",
               "children": [],
@@ -1453,7 +1432,7 @@
                 "open_issues": 14,
                 "owner": "marph91",
                 "repo": "jimmy",
-                "stars": 534,
+                "stars": 535,
                 "topics": [
                   "bear",
                   "cherrytree",
@@ -1685,7 +1664,7 @@
             "id": 504488350,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T13:29:19Z",
+            "last_commit": "2026-10-05T17:35:25Z",
             "open_issues": 71,
             "owner": "standardnotes",
             "repo": "server",
@@ -1729,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T06:17:38.755Z",
+    "last_updated": "2026-10-06T06:53:32.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
