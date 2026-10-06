@@ -151,7 +151,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,642 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-30 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,643 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-30 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
