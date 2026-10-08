@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T06:32:56.988Z",
+    "last_updated": "2026-10-08T06:41:31.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
@@ -1720,7 +1720,7 @@
       "open_issues": 0,
       "owner": "jonhadfield",
       "repo": "awesome-standard-notes",
-      "stars": 953,
+      "stars": 954,
       "topics": [
         "awesome",
         "awesome-list",
