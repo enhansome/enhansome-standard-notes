@@ -2,7 +2,7 @@
 
 A curated list of tools and information relating to [Standard Notes](https://standardnotes.com/).
 
-[Contribution guidelines](CONTRIBUTING.md) · [Official plugins](https://github.com/standardnotes/plugins) ⭐ 126 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-05 · [Discord](https://discord.gg/9VNW3kK554)
+[Contribution guidelines](CONTRIBUTING.md) · [Official plugins](https://github.com/standardnotes/plugins) ⭐ 126 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-05 · [Discord](https://discord.gg/9VNW3kK554)
 
 ## Contents
 
@@ -62,7 +62,7 @@ A curated list of tools and information relating to [Standard Notes](https://sta
 * [Moss](https://github.com/TheMany172/SN-Moss-Theme) ⭐ 1 | 🐛 0 | 🌐 SCSS | 📅 2024-10-25 - Mossy green with orange accents.
 * [Horizon Light](https://github.com/luisstd/sn-theme-horizon-light) ⭐ 0 | 🐛 0 | 🌐 SCSS | 📅 2022-03-14 - Light variant of the Horizon VS Code theme.
 * [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) ⭐ 0 | 🐛 0 | 📅 2021-02-23 - Light counterpart to One Dark Darker.
-* [Catppuccin](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30 - Catppuccin flavors: [Mocha](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Latte](https://github.com/JoeC-Dev/SN-catppuccin-latte) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Frappe](https://github.com/JoeC-Dev/SN-catppuccin-frappe) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Macchiato](https://github.com/JoeC-Dev/SN-catppuccin-macchiato) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30.
+* [Catppuccin](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30 - Catppuccin flavors: [Mocha](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Latte](https://github.com/JoeC-Dev/SN-catppuccin-latte) ⭐ 1 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Frappe](https://github.com/JoeC-Dev/SN-catppuccin-frappe) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Macchiato](https://github.com/JoeC-Dev/SN-catppuccin-macchiato) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30.
 * [VS Code Dark](https://github.com/marcolaux/sn-theme-vscode) - Inspired by the VS Code Dark theme.
 
 ### Editors
@@ -72,7 +72,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 #### General
 
 * [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) ⭐ 146 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-19 - Outline-based editor with tables, embeds, and highlights.
-* [Official Plugins](https://github.com/standardnotes/plugins) ⭐ 126 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-05 - Official and community plugins directory.
+* [Official Plugins](https://github.com/standardnotes/plugins) ⭐ 126 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-05 - Official and community plugins directory.
 * [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append-focused Markdown editor with Textarea, CodeMirror, Outline RME, and Monaco modes.
 * [Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor) ⭐ 48 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-10 - Outliner-style indenting editor.
 * [Org Mode](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-12 - Org mode editor for Standard Notes.
@@ -126,7 +126,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 ### Importers, Exporters, and Converters
 
 * [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,807 | 🐛 92 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
-* [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,112 | 🐛 17 | 🌐 Go | 📅 2026-09-25 - Convert Evernote `.enex` exports to Markdown files.
+* [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,112 | 🐛 17 | 🌐 Go | 📅 2026-10-08 - Convert Evernote `.enex` exports to Markdown files.
 * [Jimmy](https://github.com/marph91/jimmy) ⭐ 534 | 🐛 14 | 🌐 Python | 📅 2026-09-30 - Convert notes from many apps (including Standard Notes) to Markdown.
 * [Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Turn a decrypted backup into `<tag>/<note>.<ext>` folders.
 * [onestandard](https://github.com/oxhacks/onestandard) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - Convert OneNote notebooks to Standard Notes format.
@@ -151,7 +151,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,645 | 🐛 96 | 🌐 TypeScript | 📅 2026-10-08 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,647 | 🐛 95 | 🌐 TypeScript | 📅 2026-10-08 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
