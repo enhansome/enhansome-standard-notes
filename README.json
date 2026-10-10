@@ -628,7 +628,7 @@
                     "open_issues": 20,
                     "owner": "standardnotes",
                     "repo": "plugins",
-                    "stars": 126,
+                    "stars": 127,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:15:58.908Z"
@@ -1318,7 +1318,7 @@
                 "open_issues": 7,
                 "owner": "lozit",
                 "repo": "mcp-standardnotes",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "anthropic",
                   "claude",
@@ -1364,7 +1364,7 @@
                 "open_issues": 92,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1807,
+                "stars": 1808,
                 "topics": [
                   "converter",
                   "desktop-application",
@@ -1402,7 +1402,7 @@
                 "id": 147922113,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-08T19:28:25Z",
+                "last_commit": "2026-10-10T01:47:01Z",
                 "open_issues": 17,
                 "owner": "wormi4ok",
                 "repo": "evernote2md",
@@ -1428,8 +1428,8 @@
                 "id": 780390631,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-30T21:00:25Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-09T16:00:41Z",
+                "open_issues": 15,
                 "owner": "marph91",
                 "repo": "jimmy",
                 "stars": 534,
@@ -1612,7 +1612,7 @@
                 "open_issues": 1,
                 "owner": "rafaelespinoza",
                 "repo": "notexfr",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "evernote",
                   "standardnotes"
@@ -1668,7 +1668,7 @@
             "open_issues": 71,
             "owner": "standardnotes",
             "repo": "server",
-            "stars": 473,
+            "stars": 474,
             "topics": []
           },
           "first_seen": "2026-09-24T05:29:34.614Z"
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T06:47:52.104Z",
+    "last_updated": "2026-10-10T06:25:41.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",

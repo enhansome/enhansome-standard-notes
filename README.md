@@ -2,7 +2,7 @@
 
 A curated list of tools and information relating to [Standard Notes](https://standardnotes.com/).
 
-[Contribution guidelines](CONTRIBUTING.md) · [Official plugins](https://github.com/standardnotes/plugins) ⭐ 126 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-05 · [Discord](https://discord.gg/9VNW3kK554)
+[Contribution guidelines](CONTRIBUTING.md) · [Official plugins](https://github.com/standardnotes/plugins) ⭐ 127 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-05 · [Discord](https://discord.gg/9VNW3kK554)
 
 ## Contents
 
@@ -72,7 +72,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 #### General
 
 * [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) ⭐ 146 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-19 - Outline-based editor with tables, embeds, and highlights.
-* [Official Plugins](https://github.com/standardnotes/plugins) ⭐ 126 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-05 - Official and community plugins directory.
+* [Official Plugins](https://github.com/standardnotes/plugins) ⭐ 127 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-05 - Official and community plugins directory.
 * [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append-focused Markdown editor with Textarea, CodeMirror, Outline RME, and Monaco modes.
 * [Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor) ⭐ 48 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-10 - Outliner-style indenting editor.
 * [Org Mode](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-12 - Org mode editor for Standard Notes.
@@ -121,20 +121,20 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 * [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 95 | 🐛 2 | 🌐 Go | 📅 2026-10-05 - Manage notes, tags, and account operations from the terminal.
 * [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2026-09-27 - Sync and manage dotfiles with Standard Notes.
 * [Extensions Server](https://github.com/sentriz/standardnotes-extensions) ⭐ 20 | 🐛 3 | 🌐 Go | 📅 2023-02-25 - Auto-updating Docker/Go host for extensions.
-* [MCP Standard Notes](https://github.com/lozit/mcp-standardnotes) ⭐ 11 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08 - MCP server with end-to-end encryption.
+* [MCP Standard Notes](https://github.com/lozit/mcp-standardnotes) ⭐ 12 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08 - MCP server with end-to-end encryption.
 
 ### Importers, Exporters, and Converters
 
-* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,807 | 🐛 92 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
-* [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,112 | 🐛 17 | 🌐 Go | 📅 2026-10-08 - Convert Evernote `.enex` exports to Markdown files.
-* [Jimmy](https://github.com/marph91/jimmy) ⭐ 534 | 🐛 14 | 🌐 Python | 📅 2026-09-30 - Convert notes from many apps (including Standard Notes) to Markdown.
+* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,808 | 🐛 92 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
+* [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,112 | 🐛 17 | 🌐 Go | 📅 2026-10-10 - Convert Evernote `.enex` exports to Markdown files.
+* [Jimmy](https://github.com/marph91/jimmy) ⭐ 534 | 🐛 15 | 🌐 Python | 📅 2026-10-09 - Convert notes from many apps (including Standard Notes) to Markdown.
 * [Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Turn a decrypted backup into `<tag>/<note>.<ext>` folders.
 * [onestandard](https://github.com/oxhacks/onestandard) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - Convert OneNote notebooks to Standard Notes format.
 * [Export to Folder](https://github.com/danielnetop/sn-export-to-folder) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2023-11-25 - Extract a decrypted export into tag folders and note files.
 * [Day One Importer](https://github.com/ArneTR/standardnotes_day_one_importer) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2019-09-02 - Import Day One JSON exports.
 * [Google Keep Converter](https://github.com/vantezzen/Google-Keep-to-Standardnotes-Converter) ⚠️ Archived **\[Archived]** - Convert Google Keep Takeout archives.
 * [simplenote2standardnote](https://github.com/edas/simplenote2standardnote) ⚠️ Archived **\[Archived]** - Port Simplenote backups with dates and tags.
-* [notexfr](https://github.com/rafaelespinoza/notexfr) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2026-09-02 - Convert and adapt data between note-taking services.
+* [notexfr](https://github.com/rafaelespinoza/notexfr) ⭐ 5 | 🐛 1 | 🌐 Go | 📅 2026-09-02 - Convert and adapt data between note-taking services.
 * [BB10 Remember Converter](https://github.com/jayb-g/bbrem2sn) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-07-18 - Convert BlackBerry 10 Remember backups to Standard Notes import format.
 * [Official Google Keep Import](https://standardnotes.com/help/35/how-can-i-import-my-notes-from-google-keep) - Official Keep → Standard Notes conversion help.
 * [Aegis to TokenVault](https://gist.github.com/kahnwong/e94933bb80888e4b7f75df4d90645cbe) - Format Aegis exports for the TokenVault editor.
@@ -146,12 +146,12 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Servers
 
-* [Official Sync Server](https://github.com/standardnotes/server) ⭐ 473 | 🐛 71 | 🌐 TypeScript | 📅 2026-10-05 - Official self-hostable sync server.
+* [Official Sync Server](https://github.com/standardnotes/server) ⭐ 474 | 🐛 71 | 🌐 TypeScript | 📅 2026-10-05 - Official self-hostable sync server.
 * [Yet Another Standardfile](https://github.com/mdouchement/standardfile) ⭐ 83 | 🐛 10 | 🌐 Go | 📅 2026-05-30 - Standard Notes–compatible server written in Go.
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,647 | 🐛 95 | 🌐 TypeScript | 📅 2026-10-08 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,648 | 🐛 97 | 🌐 TypeScript | 📅 2026-10-09 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
