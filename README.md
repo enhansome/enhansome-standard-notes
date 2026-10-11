@@ -127,7 +127,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 * [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,808 | 🐛 92 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
 * [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,112 | 🐛 17 | 🌐 Go | 📅 2026-10-10 - Convert Evernote `.enex` exports to Markdown files.
-* [Jimmy](https://github.com/marph91/jimmy) ⭐ 534 | 🐛 15 | 🌐 Python | 📅 2026-10-09 - Convert notes from many apps (including Standard Notes) to Markdown.
+* [Jimmy](https://github.com/marph91/jimmy) ⭐ 534 | 🐛 15 | 🌐 Python | 📅 2026-10-10 - Convert notes from many apps (including Standard Notes) to Markdown.
 * [Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Turn a decrypted backup into `<tag>/<note>.<ext>` folders.
 * [onestandard](https://github.com/oxhacks/onestandard) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - Convert OneNote notebooks to Standard Notes format.
 * [Export to Folder](https://github.com/danielnetop/sn-export-to-folder) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2023-11-25 - Extract a decrypted export into tag folders and note files.
@@ -141,7 +141,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Libraries
 
-* [gosn-v2](https://github.com/jonhadfield/gosn-v2) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2026-09-27 - Go client library for Standard Notes.
+* [gosn-v2](https://github.com/jonhadfield/gosn-v2) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2026-10-10 - Go client library for Standard Notes.
 * [Standard File Client Library](https://pkg.go.dev/github.com/mdouchement/standardfile/pkg/libsf) - Go client library for the Standard File protocol.
 
 ## Servers
@@ -151,7 +151,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,648 | 🐛 97 | 🌐 TypeScript | 📅 2026-10-09 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,652 | 🐛 98 | 🌐 TypeScript | 📅 2026-10-09 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
