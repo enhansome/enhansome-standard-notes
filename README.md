@@ -118,7 +118,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 ### Command Line
 
 * [Open Extended](https://github.com/kylejbrk/standard-notes-open-extended) ⭐ 106 | 🐛 2 | 🌐 Python | 📅 2022-11-04 - Community-hosted catalog of installable extensions.
-* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 95 | 🐛 2 | 🌐 Go | 📅 2026-10-05 - Manage notes, tags, and account operations from the terminal.
+* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 95 | 🐛 2 | 🌐 Go | 📅 2026-10-12 - Manage notes, tags, and account operations from the terminal.
 * [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2026-09-27 - Sync and manage dotfiles with Standard Notes.
 * [Extensions Server](https://github.com/sentriz/standardnotes-extensions) ⭐ 20 | 🐛 3 | 🌐 Go | 📅 2023-02-25 - Auto-updating Docker/Go host for extensions.
 * [MCP Standard Notes](https://github.com/lozit/mcp-standardnotes) ⭐ 12 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08 - MCP server with end-to-end encryption.
@@ -151,7 +151,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,652 | 🐛 98 | 🌐 TypeScript | 📅 2026-10-09 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,657 | 🐛 98 | 🌐 TypeScript | 📅 2026-10-09 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
