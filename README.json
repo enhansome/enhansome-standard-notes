@@ -838,7 +838,7 @@
                     "open_issues": 7,
                     "owner": "antonheitz",
                     "repo": "sn-whiteboard",
-                    "stars": 35,
+                    "stars": 34,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:15:58.908Z"
@@ -1220,7 +1220,7 @@
                 "open_issues": 2,
                 "owner": "kylejbrk",
                 "repo": "standard-notes-open-extended",
-                "stars": 106,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-09-24T05:29:34.614Z"
@@ -1364,7 +1364,7 @@
                 "open_issues": 92,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1808,
+                "stars": 1810,
                 "topics": [
                   "converter",
                   "desktop-application",
@@ -1432,7 +1432,7 @@
                 "open_issues": 15,
                 "owner": "marph91",
                 "repo": "jimmy",
-                "stars": 534,
+                "stars": 535,
                 "topics": [
                   "bear",
                   "cherrytree",
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T06:36:12.609Z",
+    "last_updated": "2026-10-13T07:08:09.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
@@ -1720,7 +1720,7 @@
       "open_issues": 1,
       "owner": "jonhadfield",
       "repo": "awesome-standard-notes",
-      "stars": 956,
+      "stars": 955,
       "topics": [
         "awesome",
         "awesome-list",
