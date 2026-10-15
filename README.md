@@ -2,7 +2,7 @@
 
 A curated list of tools and information relating to [Standard Notes](https://standardnotes.com/).
 
-[Contribution guidelines](CONTRIBUTING.md) · [Official plugins](https://github.com/standardnotes/plugins) ⭐ 127 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-05 · [Discord](https://discord.gg/9VNW3kK554)
+[Contribution guidelines](CONTRIBUTING.md) · [Official plugins](https://github.com/standardnotes/plugins) ⭐ 128 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-05 · [Discord](https://discord.gg/9VNW3kK554)
 
 ## Contents
 
@@ -51,7 +51,7 @@ A curated list of tools and information relating to [Standard Notes](https://sta
 * [One Dark Darker](https://github.com/eenpadvinder/standardnotes-theme-one-darker) ⭐ 10 | 🐛 1 | 📅 2020-08-21 - Based on One Dark Darker for VS Code, with colored headings.
 * [Horizon Dark](https://github.com/luisstd/sn-theme-horizon-dark) ⭐ 8 | 🐛 0 | 🌐 SCSS | 📅 2022-11-18 - Based on the Horizon VS Code theme.
 * [Monochrome Dark](https://github.com/Parkertg/sn-theme-monochrome-dark) ⭐ 6 | 🐛 1 | 🌐 CSS | 📅 2022-11-11 - Near-monochrome dark theme.
-* [Slate](https://github.com/yithian/slate-theme/) ⭐ 6 | 🐛 2 | 🌐 Go Template | 📅 2026-05-27 - Shady grey with mossy green highlights.
+* [Slate](https://github.com/yithian/slate-theme/) ⭐ 6 | 🐛 0 | 🌐 Go Template | 📅 2026-10-14 - Shady grey with mossy green highlights.
 * [Cobalt](https://github.com/PASSK3YS/cobalt) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2026-08-02 - Blue-inspired theme.
 * [Serendipity Dark](https://github.com/luisstd/sn-theme-serendipity-dark) ⭐ 3 | 🐛 0 | 🌐 SCSS | 📅 2023-12-17 - Dark theme based on Serendipity.
 * [Subtle Light](https://github.com/Parkertg/sn-theme-subtle-light) ⭐ 2 | 🐛 0 | 📅 2023-12-28 - Low-contrast light theme.
@@ -72,7 +72,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 #### General
 
 * [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) ⭐ 146 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-19 - Outline-based editor with tables, embeds, and highlights.
-* [Official Plugins](https://github.com/standardnotes/plugins) ⭐ 127 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-05 - Official and community plugins directory.
+* [Official Plugins](https://github.com/standardnotes/plugins) ⭐ 128 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-05 - Official and community plugins directory.
 * [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append-focused Markdown editor with Textarea, CodeMirror, Outline RME, and Monaco modes.
 * [Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor) ⭐ 48 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-10 - Outliner-style indenting editor.
 * [Org Mode](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-12 - Org mode editor for Standard Notes.
@@ -125,7 +125,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ### Importers, Exporters, and Converters
 
-* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,811 | 🐛 92 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
+* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,812 | 🐛 92 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
 * [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,112 | 🐛 17 | 🌐 Go | 📅 2026-10-10 - Convert Evernote `.enex` exports to Markdown files.
 * [Jimmy](https://github.com/marph91/jimmy) ⭐ 534 | 🐛 15 | 🌐 Python | 📅 2026-10-10 - Convert notes from many apps (including Standard Notes) to Markdown.
 * [Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Turn a decrypted backup into `<tag>/<note>.<ext>` folders.
@@ -146,12 +146,12 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Servers
 
-* [Official Sync Server](https://github.com/standardnotes/server) ⭐ 474 | 🐛 70 | 🌐 TypeScript | 📅 2026-10-05 - Official self-hostable sync server.
+* [Official Sync Server](https://github.com/standardnotes/server) ⭐ 475 | 🐛 70 | 🌐 TypeScript | 📅 2026-10-05 - Official self-hostable sync server.
 * [Yet Another Standardfile](https://github.com/mdouchement/standardfile) ⭐ 83 | 🐛 10 | 🌐 Go | 📅 2026-05-30 - Standard Notes–compatible server written in Go.
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,665 | 🐛 95 | 🌐 TypeScript | 📅 2026-10-14 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,666 | 🐛 95 | 🌐 TypeScript | 📅 2026-10-14 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

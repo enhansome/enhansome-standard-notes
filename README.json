@@ -313,8 +313,8 @@
                 "id": 231261584,
                 "language": "Go Template",
                 "license": "NOASSERTION",
-                "last_commit": "2026-05-27T13:27:45Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-14T15:20:24Z",
+                "open_issues": 0,
                 "owner": "yithian",
                 "repo": "slate-theme",
                 "stars": 6,
@@ -628,7 +628,7 @@
                     "open_issues": 20,
                     "owner": "standardnotes",
                     "repo": "plugins",
-                    "stars": 127,
+                    "stars": 128,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:15:58.908Z"
@@ -1364,7 +1364,7 @@
                 "open_issues": 92,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1811,
+                "stars": 1812,
                 "topics": [
                   "converter",
                   "desktop-application",
@@ -1668,7 +1668,7 @@
             "open_issues": 70,
             "owner": "standardnotes",
             "repo": "server",
-            "stars": 474,
+            "stars": 475,
             "topics": []
           },
           "first_seen": "2026-09-24T05:29:34.614Z"
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T05:28:22.432Z",
+    "last_updated": "2026-10-15T05:17:50.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
