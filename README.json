@@ -1429,7 +1429,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-10T22:07:18Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "marph91",
                 "repo": "jimmy",
                 "stars": 534,
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T05:17:50.356Z",
+    "last_updated": "2026-10-16T05:07:26.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
