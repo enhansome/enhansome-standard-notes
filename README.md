@@ -118,8 +118,8 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 ### Command Line
 
 * [Open Extended](https://github.com/kylejbrk/standard-notes-open-extended) ⭐ 105 | 🐛 2 | 🌐 Python | 📅 2022-11-04 - Community-hosted catalog of installable extensions.
-* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 95 | 🐛 2 | 🌐 Go | 📅 2026-10-12 - Manage notes, tags, and account operations from the terminal.
-* [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2026-09-27 - Sync and manage dotfiles with Standard Notes.
+* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 95 | 🐛 7 | 🌐 Go | 📅 2026-10-19 - Manage notes, tags, and account operations from the terminal.
+* [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 3 | 🌐 Go | 📅 2026-10-18 - Sync and manage dotfiles with Standard Notes.
 * [Extensions Server](https://github.com/sentriz/standardnotes-extensions) ⭐ 20 | 🐛 3 | 🌐 Go | 📅 2023-02-25 - Auto-updating Docker/Go host for extensions.
 * [MCP Standard Notes](https://github.com/lozit/mcp-standardnotes) ⭐ 12 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08 - MCP server with end-to-end encryption.
 
@@ -141,7 +141,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Libraries
 
-* [gosn-v2](https://github.com/jonhadfield/gosn-v2) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2026-10-10 - Go client library for Standard Notes.
+* [gosn-v2](https://github.com/jonhadfield/gosn-v2) ⭐ 18 | 🐛 2 | 🌐 Go | 📅 2026-10-19 - Go client library for Standard Notes.
 * [Standard File Client Library](https://pkg.go.dev/github.com/mdouchement/standardfile/pkg/libsf) - Go client library for the Standard File protocol.
 
 ## Servers
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
