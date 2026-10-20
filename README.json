@@ -1428,7 +1428,7 @@
                 "id": 780390631,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-10T22:07:18Z",
+                "last_commit": "2026-10-19T22:06:12Z",
                 "open_issues": 16,
                 "owner": "marph91",
                 "repo": "jimmy",
@@ -1668,7 +1668,7 @@
             "open_issues": 70,
             "owner": "standardnotes",
             "repo": "server",
-            "stars": 476,
+            "stars": 477,
             "topics": []
           },
           "first_seen": "2026-09-24T05:29:34.614Z"
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T05:22:53.619Z",
+    "last_updated": "2026-10-20T05:22:28.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
