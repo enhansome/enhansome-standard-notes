@@ -71,7 +71,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 #### General
 
-* [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) ⭐ 146 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-19 - Outline-based editor with tables, embeds, and highlights.
+* [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) ⭐ 145 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-19 - Outline-based editor with tables, embeds, and highlights.
 * [Official Plugins](https://github.com/standardnotes/plugins) ⭐ 129 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-05 - Official and community plugins directory.
 * [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append-focused Markdown editor with Textarea, CodeMirror, Outline RME, and Monaco modes.
 * [Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor) ⭐ 48 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-10 - Outliner-style indenting editor.
@@ -125,9 +125,9 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ### Importers, Exporters, and Converters
 
-* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,813 | 🐛 92 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
+* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,814 | 🐛 93 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
 * [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,112 | 🐛 15 | 🌐 Go | 📅 2026-10-16 - Convert Evernote `.enex` exports to Markdown files.
-* [Jimmy](https://github.com/marph91/jimmy) ⭐ 535 | 🐛 16 | 🌐 Python | 📅 2026-10-19 - Convert notes from many apps (including Standard Notes) to Markdown.
+* [Jimmy](https://github.com/marph91/jimmy) ⭐ 536 | 🐛 13 | 🌐 Python | 📅 2026-10-20 - Convert notes from many apps (including Standard Notes) to Markdown.
 * [Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Turn a decrypted backup into `<tag>/<note>.<ext>` folders.
 * [onestandard](https://github.com/oxhacks/onestandard) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - Convert OneNote notebooks to Standard Notes format.
 * [Export to Folder](https://github.com/danielnetop/sn-export-to-folder) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2023-11-25 - Extract a decrypted export into tag folders and note files.
@@ -151,7 +151,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,671 | 🐛 94 | 🌐 TypeScript | 📅 2026-10-17 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,673 | 🐛 94 | 🌐 TypeScript | 📅 2026-10-17 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
