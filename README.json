@@ -1428,11 +1428,11 @@
                 "id": 780390631,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-20T16:27:51Z",
+                "last_commit": "2026-10-21T17:32:46Z",
                 "open_issues": 13,
                 "owner": "marph91",
                 "repo": "jimmy",
-                "stars": 536,
+                "stars": 537,
                 "topics": [
                   "bear",
                   "cherrytree",
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T05:21:30.437Z",
+    "last_updated": "2026-10-22T05:25:40.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
