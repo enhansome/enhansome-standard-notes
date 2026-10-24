@@ -1315,7 +1315,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-08T08:07:49Z",
-                "open_issues": 7,
+                "open_issues": 11,
                 "owner": "lozit",
                 "repo": "mcp-standardnotes",
                 "stars": 12,
@@ -1361,10 +1361,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-03-31T19:44:02Z",
-                "open_issues": 93,
+                "open_issues": 94,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1814,
+                "stars": 1815,
                 "topics": [
                   "converter",
                   "desktop-application",
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T05:25:58.001Z",
+    "last_updated": "2026-10-24T05:05:10.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
