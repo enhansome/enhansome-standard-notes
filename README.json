@@ -1402,8 +1402,8 @@
                 "id": 147922113,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-16T19:28:26Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-24T18:02:36Z",
+                "open_issues": 16,
                 "owner": "wormi4ok",
                 "repo": "evernote2md",
                 "stars": 1112,
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T05:05:10.716Z",
+    "last_updated": "2026-10-25T05:22:23.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
