@@ -62,7 +62,7 @@ A curated list of tools and information relating to [Standard Notes](https://sta
 * [Moss](https://github.com/TheMany172/SN-Moss-Theme) ⭐ 1 | 🐛 0 | 🌐 SCSS | 📅 2024-10-25 - Mossy green with orange accents.
 * [Horizon Light](https://github.com/luisstd/sn-theme-horizon-light) ⭐ 0 | 🐛 0 | 🌐 SCSS | 📅 2022-03-14 - Light variant of the Horizon VS Code theme.
 * [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) ⭐ 0 | 🐛 0 | 📅 2021-02-23 - Light counterpart to One Dark Darker.
-* [Catppuccin](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30 - Catppuccin flavors: [Mocha](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Latte](https://github.com/JoeC-Dev/SN-catppuccin-latte) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Frappe](https://github.com/JoeC-Dev/SN-catppuccin-frappe) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Macchiato](https://github.com/JoeC-Dev/SN-catppuccin-macchiato) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30.
+* [Catppuccin](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30 - Catppuccin flavors: [Mocha](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Latte](https://github.com/JoeC-Dev/SN-catppuccin-latte) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Frappe](https://github.com/JoeC-Dev/SN-catppuccin-frappe) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Macchiato](https://github.com/JoeC-Dev/SN-catppuccin-macchiato) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30.
 * [VS Code Dark](https://github.com/marcolaux/sn-theme-vscode) - Inspired by the VS Code Dark theme.
 
 ### Editors
@@ -151,7 +151,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,682 | 🐛 95 | 🌐 TypeScript | 📅 2026-10-23 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,681 | 🐛 95 | 🌐 TypeScript | 📅 2026-10-23 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
