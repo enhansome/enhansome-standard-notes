@@ -824,6 +824,30 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Kanban Editor",
+                  "description": "Kanban board that stores notes as Markdown.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Standard Notes Kanban Editor",
+                    "homepage": "https://corvec.github.io/sn-kanban-editor/ext.json",
+                    "id": 336176156,
+                    "language": "TypeScript",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-08-02T18:15:18Z",
+                    "open_issues": 3,
+                    "owner": "corvec",
+                    "repo": "sn-kanban-editor",
+                    "stars": 34,
+                    "topics": [
+                      "kanban-editor",
+                      "standard-notes"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:15:58.908Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Whiteboard",
                   "description": "Freeform drawing and sticky notes via TLDraw.",
                   "children": [],
@@ -840,30 +864,6 @@
                     "repo": "sn-whiteboard",
                     "stars": 34,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T12:15:58.908Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Kanban Editor",
-                  "description": "Kanban board that stores notes as Markdown.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Standard Notes Kanban Editor",
-                    "homepage": "https://corvec.github.io/sn-kanban-editor/ext.json",
-                    "id": 336176156,
-                    "language": "TypeScript",
-                    "license": "AGPL-3.0",
-                    "last_commit": "2026-08-02T18:15:18Z",
-                    "open_issues": 3,
-                    "owner": "corvec",
-                    "repo": "sn-kanban-editor",
-                    "stars": 33,
-                    "topics": [
-                      "kanban-editor",
-                      "standard-notes"
-                    ]
                   },
                   "first_seen": "2026-08-28T12:15:58.908Z"
                 },
@@ -1428,8 +1428,8 @@
                 "id": 780390631,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T17:47:46Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-29T17:49:36Z",
+                "open_issues": 12,
                 "owner": "marph91",
                 "repo": "jimmy",
                 "stars": 539,
@@ -1668,7 +1668,7 @@
             "open_issues": 70,
             "owner": "standardnotes",
             "repo": "server",
-            "stars": 478,
+            "stars": 480,
             "topics": []
           },
           "first_seen": "2026-09-24T05:29:34.614Z"
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T06:30:55.385Z",
+    "last_updated": "2026-10-30T06:30:41.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
