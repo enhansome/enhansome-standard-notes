@@ -23,7 +23,7 @@ A curated list of tools and information relating to [Standard Notes](https://sta
 
 ## Guides
 
-* [Self-Hosting on ARM / Raspberry Pi](https://github.com/antonheitz/standard-notes-arm) ⭐ 10 | 🐛 0 | 📅 2023-01-22 - Run Standard Notes on ARM hardware.
+* [Self-Hosting on ARM / Raspberry Pi](https://github.com/antonheitz/standard-notes-arm) ⭐ 11 | 🐛 0 | 📅 2023-01-22 - Run Standard Notes on ARM hardware.
 * [Editor Extension Template](https://github.com/nienow/sn-extension-template) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-01 - Starter template for building editor extensions.
 * [Standard Notes Help](https://standardnotes.com/help) - Official help center.
 * [Self-Hosting Standard Notes](https://standardnotes.com/help/47/can-i-self-host-standard-notes) - Official self-hosting guide.
@@ -127,7 +127,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 * [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,816 | 🐛 94 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
 * [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,112 | 🐛 17 | 🌐 Go | 📅 2026-10-27 - Convert Evernote `.enex` exports to Markdown files.
-* [Jimmy](https://github.com/marph91/jimmy) ⭐ 539 | 🐛 12 | 🌐 Python | 📅 2026-10-29 - Convert notes from many apps (including Standard Notes) to Markdown.
+* [Jimmy](https://github.com/marph91/jimmy) ⭐ 540 | 🐛 12 | 🌐 Python | 📅 2026-10-29 - Convert notes from many apps (including Standard Notes) to Markdown.
 * [Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Turn a decrypted backup into `<tag>/<note>.<ext>` folders.
 * [onestandard](https://github.com/oxhacks/onestandard) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - Convert OneNote notebooks to Standard Notes format.
 * [Export to Folder](https://github.com/danielnetop/sn-export-to-folder) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2023-11-25 - Extract a decrypted export into tag folders and note files.
@@ -151,7 +151,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,689 | 🐛 96 | 🌐 TypeScript | 📅 2026-10-30 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,691 | 🐛 96 | 🌐 TypeScript | 📅 2026-10-30 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

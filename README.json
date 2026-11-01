@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "antonheitz",
             "repo": "standard-notes-arm",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "arm",
               "arm64",
@@ -1432,7 +1432,7 @@
                 "open_issues": 12,
                 "owner": "marph91",
                 "repo": "jimmy",
-                "stars": 539,
+                "stars": 540,
                 "topics": [
                   "bear",
                   "cherrytree",
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T06:20:42.751Z",
+    "last_updated": "2026-11-01T06:53:12.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
@@ -1720,7 +1720,7 @@
       "open_issues": 1,
       "owner": "jonhadfield",
       "repo": "awesome-standard-notes",
-      "stars": 956,
+      "stars": 957,
       "topics": [
         "awesome",
         "awesome-list",
