@@ -62,7 +62,7 @@ A curated list of tools and information relating to [Standard Notes](https://sta
 * [Moss](https://github.com/TheMany172/SN-Moss-Theme) ⭐ 1 | 🐛 0 | 🌐 SCSS | 📅 2024-10-25 - Mossy green with orange accents.
 * [Horizon Light](https://github.com/luisstd/sn-theme-horizon-light) ⭐ 0 | 🐛 0 | 🌐 SCSS | 📅 2022-03-14 - Light variant of the Horizon VS Code theme.
 * [One Light Lighter](https://github.com/arturolinares/standardnotes-theme-one-lighter) ⭐ 0 | 🐛 0 | 📅 2021-02-23 - Light counterpart to One Dark Darker.
-* [Catppuccin](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30 - Catppuccin flavors: [Mocha](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Latte](https://github.com/JoeC-Dev/SN-catppuccin-latte) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Frappe](https://github.com/JoeC-Dev/SN-catppuccin-frappe) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Macchiato](https://github.com/JoeC-Dev/SN-catppuccin-macchiato) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30.
+* [Catppuccin](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30 - Catppuccin flavors: [Mocha](https://github.com/JoeC-Dev/SN-catppuccin-mocha) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Latte](https://github.com/JoeC-Dev/SN-catppuccin-latte) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Frappe](https://github.com/JoeC-Dev/SN-catppuccin-frappe) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30, [Macchiato](https://github.com/JoeC-Dev/SN-catppuccin-macchiato) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2026-05-30.
 * [VS Code Dark](https://github.com/marcolaux/sn-theme-vscode) - Inspired by the VS Code Dark theme.
 
 ### Editors
@@ -118,16 +118,16 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 ### Command Line
 
 * [Open Extended](https://github.com/kylejbrk/standard-notes-open-extended) ⭐ 105 | 🐛 2 | 🌐 Python | 📅 2022-11-04 - Community-hosted catalog of installable extensions.
-* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 95 | 🐛 7 | 🌐 Go | 📅 2026-10-19 - Manage notes, tags, and account operations from the terminal.
+* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 95 | 🐛 17 | 🌐 Go | 📅 2026-11-02 - Manage notes, tags, and account operations from the terminal.
 * [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 3 | 🌐 Go | 📅 2026-10-18 - Sync and manage dotfiles with Standard Notes.
 * [Extensions Server](https://github.com/sentriz/standardnotes-extensions) ⭐ 20 | 🐛 3 | 🌐 Go | 📅 2023-02-25 - Auto-updating Docker/Go host for extensions.
 * [MCP Standard Notes](https://github.com/lozit/mcp-standardnotes) ⭐ 12 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-08 - MCP server with end-to-end encryption.
 
 ### Importers, Exporters, and Converters
 
-* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,816 | 🐛 94 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
+* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,815 | 🐛 94 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
 * [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,112 | 🐛 17 | 🌐 Go | 📅 2026-10-27 - Convert Evernote `.enex` exports to Markdown files.
-* [Jimmy](https://github.com/marph91/jimmy) ⭐ 540 | 🐛 12 | 🌐 Python | 📅 2026-10-29 - Convert notes from many apps (including Standard Notes) to Markdown.
+* [Jimmy](https://github.com/marph91/jimmy) ⭐ 541 | 🐛 12 | 🌐 Python | 📅 2026-10-29 - Convert notes from many apps (including Standard Notes) to Markdown.
 * [Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Turn a decrypted backup into `<tag>/<note>.<ext>` folders.
 * [onestandard](https://github.com/oxhacks/onestandard) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - Convert OneNote notebooks to Standard Notes format.
 * [Export to Folder](https://github.com/danielnetop/sn-export-to-folder) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2023-11-25 - Extract a decrypted export into tag folders and note files.
@@ -141,17 +141,17 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Libraries
 
-* [gosn-v2](https://github.com/jonhadfield/gosn-v2) ⭐ 18 | 🐛 2 | 🌐 Go | 📅 2026-10-19 - Go client library for Standard Notes.
+* [gosn-v2](https://github.com/jonhadfield/gosn-v2) ⭐ 18 | 🐛 6 | 🌐 Go | 📅 2026-10-19 - Go client library for Standard Notes.
 * [Standard File Client Library](https://pkg.go.dev/github.com/mdouchement/standardfile/pkg/libsf) - Go client library for the Standard File protocol.
 
 ## Servers
 
-* [Official Sync Server](https://github.com/standardnotes/server) ⭐ 480 | 🐛 70 | 🌐 TypeScript | 📅 2026-10-05 - Official self-hostable sync server.
+* [Official Sync Server](https://github.com/standardnotes/server) ⭐ 481 | 🐛 70 | 🌐 TypeScript | 📅 2026-10-05 - Official self-hostable sync server.
 * [Yet Another Standardfile](https://github.com/mdouchement/standardfile) ⭐ 83 | 🐛 10 | 🌐 Go | 📅 2026-05-30 - Standard Notes–compatible server written in Go.
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,691 | 🐛 96 | 🌐 TypeScript | 📅 2026-10-30 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,695 | 🐛 96 | 🌐 TypeScript | 📅 2026-10-30 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
