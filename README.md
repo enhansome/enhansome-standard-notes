@@ -117,8 +117,8 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ### Command Line
 
-* [Open Extended](https://github.com/kylejbrk/standard-notes-open-extended) ⭐ 105 | 🐛 2 | 🌐 Python | 📅 2022-11-04 - Community-hosted catalog of installable extensions.
-* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 95 | 🐛 17 | 🌐 Go | 📅 2026-11-02 - Manage notes, tags, and account operations from the terminal.
+* [Open Extended](https://github.com/kylejbrk/standard-notes-open-extended) ⭐ 106 | 🐛 2 | 🌐 Python | 📅 2022-11-04 - Community-hosted catalog of installable extensions.
+* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 95 | 🐛 0 | 🌐 Go | 📅 2026-11-02 - Manage notes, tags, and account operations from the terminal.
 * [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 3 | 🌐 Go | 📅 2026-10-18 - Sync and manage dotfiles with Standard Notes.
 * [Extensions Server](https://github.com/sentriz/standardnotes-extensions) ⭐ 20 | 🐛 3 | 🌐 Go | 📅 2023-02-25 - Auto-updating Docker/Go host for extensions.
 * [MCP Standard Notes](https://github.com/lozit/mcp-standardnotes) ⭐ 12 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-08 - MCP server with end-to-end encryption.
@@ -127,7 +127,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 * [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,815 | 🐛 94 | 🌐 TypeScript | 📅 2026-03-31 - Configurable Evernote → Markdown desktop converter.
 * [evernote2md](https://github.com/wormi4ok/evernote2md) ⭐ 1,112 | 🐛 17 | 🌐 Go | 📅 2026-10-27 - Convert Evernote `.enex` exports to Markdown files.
-* [Jimmy](https://github.com/marph91/jimmy) ⭐ 541 | 🐛 12 | 🌐 Python | 📅 2026-10-29 - Convert notes from many apps (including Standard Notes) to Markdown.
+* [Jimmy](https://github.com/marph91/jimmy) ⭐ 542 | 🐛 12 | 🌐 Python | 📅 2026-11-02 - Convert notes from many apps (including Standard Notes) to Markdown.
 * [Folder Export CLI](https://github.com/BrunoBernardino/standardnotes-folder-export-cli#standard-notes-folder-export-cli---deno) ⚠️ Archived **\[Archived]** - Turn a decrypted backup into `<tag>/<note>.<ext>` folders.
 * [onestandard](https://github.com/oxhacks/onestandard) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-04-21 - Convert OneNote notebooks to Standard Notes format.
 * [Export to Folder](https://github.com/danielnetop/sn-export-to-folder) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2023-11-25 - Extract a decrypted export into tag folders and note files.
@@ -141,7 +141,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Libraries
 
-* [gosn-v2](https://github.com/jonhadfield/gosn-v2) ⭐ 18 | 🐛 6 | 🌐 Go | 📅 2026-10-19 - Go client library for Standard Notes.
+* [gosn-v2](https://github.com/jonhadfield/gosn-v2) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2026-11-02 - Go client library for Standard Notes.
 * [Standard File Client Library](https://pkg.go.dev/github.com/mdouchement/standardfile/pkg/libsf) - Go client library for the Standard File protocol.
 
 ## Servers
@@ -151,7 +151,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,695 | 🐛 96 | 🌐 TypeScript | 📅 2026-10-30 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,695 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-02 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

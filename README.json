@@ -1220,7 +1220,7 @@
                 "open_issues": 2,
                 "owner": "kylejbrk",
                 "repo": "standard-notes-open-extended",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-09-24T05:29:34.614Z"
@@ -1237,8 +1237,8 @@
                 "id": 147110819,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-02T00:33:07Z",
-                "open_issues": 17,
+                "last_commit": "2026-11-02T07:44:08Z",
+                "open_issues": 0,
                 "owner": "jonhadfield",
                 "repo": "sn-cli",
                 "stars": 95,
@@ -1428,11 +1428,11 @@
                 "id": 780390631,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T17:49:36Z",
+                "last_commit": "2026-11-02T17:30:44Z",
                 "open_issues": 12,
                 "owner": "marph91",
                 "repo": "jimmy",
-                "stars": 541,
+                "stars": 542,
                 "topics": [
                   "bear",
                   "cherrytree",
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T06:53:49.843Z",
+    "last_updated": "2026-11-03T07:16:51.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
