@@ -1318,7 +1318,7 @@
                 "open_issues": 11,
                 "owner": "lozit",
                 "repo": "mcp-standardnotes",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "anthropic",
                   "claude",
@@ -1432,7 +1432,7 @@
                 "open_issues": 12,
                 "owner": "marph91",
                 "repo": "jimmy",
-                "stars": 542,
+                "stars": 541,
                 "topics": [
                   "bear",
                   "cherrytree",
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T07:26:29.354Z",
+    "last_updated": "2026-11-06T07:26:51.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
