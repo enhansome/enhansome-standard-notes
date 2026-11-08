@@ -1406,7 +1406,7 @@
                 "open_issues": 17,
                 "owner": "wormi4ok",
                 "repo": "evernote2md",
-                "stars": 1112,
+                "stars": 1113,
                 "topics": [
                   "converter",
                   "evernote",
@@ -1668,7 +1668,7 @@
             "open_issues": 70,
             "owner": "standardnotes",
             "repo": "server",
-            "stars": 480,
+            "stars": 482,
             "topics": []
           },
           "first_seen": "2026-09-24T05:29:34.614Z"
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T06:38:41.575Z",
+    "last_updated": "2026-11-08T06:44:18.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
