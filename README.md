@@ -2,7 +2,7 @@
 
 A curated list of tools and information relating to [Standard Notes](https://standardnotes.com/).
 
-[Contribution guidelines](CONTRIBUTING.md) · [Official plugins](https://github.com/standardnotes/plugins) ⭐ 129 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-05 · [Discord](https://discord.gg/9VNW3kK554)
+[Contribution guidelines](CONTRIBUTING.md) · [Official plugins](https://github.com/standardnotes/plugins) ⭐ 129 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-13 · [Discord](https://discord.gg/9VNW3kK554)
 
 ## Contents
 
@@ -24,7 +24,7 @@ A curated list of tools and information relating to [Standard Notes](https://sta
 ## Guides
 
 * [Self-Hosting on ARM / Raspberry Pi](https://github.com/antonheitz/standard-notes-arm) ⭐ 11 | 🐛 0 | 📅 2023-01-22 - Run Standard Notes on ARM hardware.
-* [Editor Extension Template](https://github.com/nienow/sn-extension-template) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-01 - Starter template for building editor extensions.
+* [Editor Extension Template](https://github.com/nienow/sn-extension-template) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-01 - Starter template for building editor extensions.
 * [Standard Notes Help](https://standardnotes.com/help) - Official help center.
 * [Self-Hosting Standard Notes](https://standardnotes.com/help/47/can-i-self-host-standard-notes) - Official self-hosting guide.
 * [Introduction to Plugins](https://standardnotes.com/help/plugins/intro) - Official plugin development overview.
@@ -72,7 +72,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 #### General
 
 * [Rich Markdown Editor](https://github.com/arturolinares/sn-rme) ⭐ 145 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-19 - Outline-based editor with tables, embeds, and highlights.
-* [Official Plugins](https://github.com/standardnotes/plugins) ⭐ 129 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-05 - Official and community plugins directory.
+* [Official Plugins](https://github.com/standardnotes/plugins) ⭐ 129 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-13 - Official and community plugins directory.
 * [Append Editor](https://github.com/theodorechu/append-editor) ⚠️ Archived - Append-focused Markdown editor with Textarea, CodeMirror, Outline RME, and Monaco modes.
 * [Indent Editor](https://github.com/MaxLap/standard-notes-indent-editor) ⭐ 48 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-10 - Outliner-style indenting editor.
 * [Org Mode](https://github.com/ryanpcmcquen/standardnotes_org_mode_editor) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-12 - Org mode editor for Standard Notes.
@@ -118,7 +118,7 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 ### Command Line
 
 * [Open Extended](https://github.com/kylejbrk/standard-notes-open-extended) ⭐ 106 | 🐛 2 | 🌐 Python | 📅 2022-11-04 - Community-hosted catalog of installable extensions.
-* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 95 | 🐛 2 | 🌐 Go | 📅 2026-11-09 - Manage notes, tags, and account operations from the terminal.
+* [sn-cli](https://github.com/jonhadfield/sn-cli) ⭐ 95 | 🐛 3 | 🌐 Go | 📅 2026-11-14 - Manage notes, tags, and account operations from the terminal.
 * [sn-dotfiles](https://github.com/jonhadfield/sn-dotfiles) ⭐ 27 | 🐛 3 | 🌐 Go | 📅 2026-10-18 - Sync and manage dotfiles with Standard Notes.
 * [Extensions Server](https://github.com/sentriz/standardnotes-extensions) ⭐ 20 | 🐛 3 | 🌐 Go | 📅 2023-02-25 - Auto-updating Docker/Go host for extensions.
 * [MCP Standard Notes](https://github.com/lozit/mcp-standardnotes) ⭐ 13 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-08 - MCP server with end-to-end encryption.
@@ -147,11 +147,11 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 ## Servers
 
 * [Official Sync Server](https://github.com/standardnotes/server) ⭐ 482 | 🐛 70 | 🌐 TypeScript | 📅 2026-10-05 - Official self-hostable sync server.
-* [Yet Another Standardfile](https://github.com/mdouchement/standardfile) ⭐ 83 | 🐛 10 | 🌐 Go | 📅 2026-05-30 - Standard Notes–compatible server written in Go.
+* [Yet Another Standardfile](https://github.com/mdouchement/standardfile) ⭐ 83 | 🐛 10 | 🌐 Go | 📅 2026-11-13 - Standard Notes–compatible server written in Go.
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,715 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-12 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,718 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-13 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

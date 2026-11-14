@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "nienow",
             "repo": "sn-extension-template",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "standard-notes"
             ]
@@ -624,7 +624,7 @@
                     "id": 508869674,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-05T15:16:33Z",
+                    "last_commit": "2026-11-13T22:12:30Z",
                     "open_issues": 20,
                     "owner": "standardnotes",
                     "repo": "plugins",
@@ -1237,8 +1237,8 @@
                 "id": 147110819,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-09T00:33:45Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-14T05:02:07Z",
+                "open_issues": 3,
                 "owner": "jonhadfield",
                 "repo": "sn-cli",
                 "stars": 95,
@@ -1685,7 +1685,7 @@
             "id": 179999395,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-05-30T18:10:38Z",
+            "last_commit": "2026-11-13T11:14:18Z",
             "open_issues": 10,
             "owner": "mdouchement",
             "repo": "standardfile",
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T07:22:40.173Z",
+    "last_updated": "2026-11-14T07:04:05.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
@@ -1720,7 +1720,7 @@
       "open_issues": 1,
       "owner": "jonhadfield",
       "repo": "awesome-standard-notes",
-      "stars": 958,
+      "stars": 959,
       "topics": [
         "awesome",
         "awesome-list",
