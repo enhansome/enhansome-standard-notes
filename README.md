@@ -146,12 +146,12 @@ Compare selected editors in the [editor comparison](https://github.com/dataprole
 
 ## Servers
 
-* [Official Sync Server](https://github.com/standardnotes/server) ⭐ 482 | 🐛 70 | 🌐 TypeScript | 📅 2026-10-05 - Official self-hostable sync server.
+* [Official Sync Server](https://github.com/standardnotes/server) ⭐ 483 | 🐛 70 | 🌐 TypeScript | 📅 2026-10-05 - Official self-hostable sync server.
 * [Yet Another Standardfile](https://github.com/mdouchement/standardfile) ⭐ 83 | 🐛 10 | 🌐 Go | 📅 2026-11-13 - Standard Notes–compatible server written in Go.
 
 ## Clients
 
-* [Official App](https://github.com/standardnotes/app) ⭐ 6,718 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-13 - Official web, desktop, and mobile clients.
+* [Official App](https://github.com/standardnotes/app) ⭐ 6,719 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-13 - Official web, desktop, and mobile clients.
 * [Iridium](https://codeberg.org/baarkerlounger/Iridium) - Local-first Rust/GTK client (Codeberg fork; original GitHub repo is archived).
 * [Flatpak](https://flathub.org/en/apps/org.standardnotes.standardnotes) - Unofficial Flatpak package.
 
@@ -172,4 +172,4 @@ Projects may include a maintenance label:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
