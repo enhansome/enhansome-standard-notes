@@ -1237,8 +1237,8 @@
                 "id": 147110819,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-14T05:02:07Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-16T00:34:08Z",
+                "open_issues": 6,
                 "owner": "jonhadfield",
                 "repo": "sn-cli",
                 "stars": 95,
@@ -1264,7 +1264,7 @@
                 "id": 195650676,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-18T20:33:49Z",
+                "last_commit": "2026-11-15T20:32:33Z",
                 "open_issues": 3,
                 "owner": "jonhadfield",
                 "repo": "sn-dotfiles",
@@ -1406,7 +1406,7 @@
                 "open_issues": 17,
                 "owner": "wormi4ok",
                 "repo": "evernote2md",
-                "stars": 1114,
+                "stars": 1115,
                 "topics": [
                   "converter",
                   "evernote",
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:14:31.096Z",
+    "last_updated": "2026-11-16T07:20:45.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
