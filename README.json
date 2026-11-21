@@ -625,7 +625,7 @@
                     "language": "TypeScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-16T14:48:19Z",
-                    "open_issues": 20,
+                    "open_issues": 21,
                     "owner": "standardnotes",
                     "repo": "plugins",
                     "stars": 129,
@@ -1364,7 +1364,7 @@
                 "open_issues": 94,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1817,
+                "stars": 1816,
                 "topics": [
                   "converter",
                   "desktop-application",
@@ -1432,7 +1432,7 @@
                 "open_issues": 12,
                 "owner": "marph91",
                 "repo": "jimmy",
-                "stars": 545,
+                "stars": 546,
                 "topics": [
                   "bear",
                   "cherrytree",
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:48:39.322Z",
+    "last_updated": "2026-11-21T07:44:24.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
@@ -1720,7 +1720,7 @@
       "open_issues": 1,
       "owner": "jonhadfield",
       "repo": "awesome-standard-notes",
-      "stars": 959,
+      "stars": 960,
       "topics": [
         "awesome",
         "awesome-list",
