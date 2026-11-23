@@ -1402,7 +1402,7 @@
                 "id": 147922113,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-17T23:27:30Z",
+                "last_commit": "2026-11-22T21:06:51Z",
                 "open_issues": 17,
                 "owner": "wormi4ok",
                 "repo": "evernote2md",
@@ -1432,7 +1432,7 @@
                 "open_issues": 12,
                 "owner": "marph91",
                 "repo": "jimmy",
-                "stars": 547,
+                "stars": 548,
                 "topics": [
                   "bear",
                   "cherrytree",
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T07:30:08.100Z",
+    "last_updated": "2026-11-23T08:18:07.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
