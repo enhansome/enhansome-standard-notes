@@ -624,7 +624,7 @@
                     "id": 508869674,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-23T13:46:11Z",
+                    "last_commit": "2026-11-26T04:52:19Z",
                     "open_issues": 20,
                     "owner": "standardnotes",
                     "repo": "plugins",
@@ -1685,7 +1685,7 @@
             "id": 179999395,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-13T11:14:18Z",
+            "last_commit": "2026-11-25T18:36:04Z",
             "open_issues": 10,
             "owner": "mdouchement",
             "repo": "standardfile",
@@ -1708,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T09:14:17.994Z",
+    "last_updated": "2026-11-26T08:55:43.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools and information relating to Standard Notes.",
